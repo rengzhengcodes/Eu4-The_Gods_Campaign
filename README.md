@@ -16,13 +16,13 @@ The players in this campaign played as Britannia, Byzantium, Carpathia, and Germ
 5. Carpathia was HREified by Ck3 player consensus.
 ## Historionics
 1. Britannia
-  1. The Rise of the House of Zukunft
-  2. The Centralization of State
-  3. Fratricide
-  4. Revelations and the Rise of Allfatherism
-  5. The Lull
-  6. Expansion of State
-  7. The Collapse
+    1. The Rise of the House of Zukunft
+    2. The Centralization of State
+    3. Fratricide
+    4. Revelations and the Rise of Allfatherism
+    5. The Lull
+    6. Expansion of State
+    7. The Collapse
 3. Byzantium
 4. Carpathia
 5. Germania
