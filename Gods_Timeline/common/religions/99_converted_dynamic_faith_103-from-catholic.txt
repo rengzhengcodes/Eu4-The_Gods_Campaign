@@ -1,0 +1,32 @@
+christian = {
+	converted_dynamic_faith_103 = {
+		color = { 7 88 38 }
+		icon =  172
+		country = {
+ 
+		build_cost = -0.2
+	
+
+		technology_cost = -0.1
+	
+
+		heir_chance = 1
+	
+
+		female_advisor_chance = 0.5
+	
+}
+		country_as_secondary = {
+ 
+		technology_cost = -0.05
+	
+}
+		
+		has_patriarchs = yes
+	
+		
+	heretic = { BOGOMILIST WALDENSIAN FRATICELLI LOLLARD SOCINIAN }
+
+	}
+}
+

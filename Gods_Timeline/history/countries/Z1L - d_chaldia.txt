@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = converted_dynamic_faith_102
+primary_culture = pontic_greek
+capital = 330
+1444.11.11= {
+	monarch = {
+		name = "Theodotos II"
+		dynasty = "Dir"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1409.10.4
+		religion = converted_dynamic_faith_102
+		culture = pontic_greek
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Baria"
+		dynasty = "Anwarid"
+		adm = 2
+		dip = 3
+		mil = 5
+		country_of_origin = Z1L
+		birth_date = 1426.4.3
+		death_date = 1486.4.3
+		female = yes
+		religion = converted_dynamic_faith_102
+		culture = berber
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Iacob"
+		monarch_name = "Iacob"
+		dynasty = "Dir"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1428.7.1
+		death_date = 1493.7.1
+		claim = 89
+		religion = converted_dynamic_faith_102
+		culture = greek
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 57
+	add_treasury = 78
+}

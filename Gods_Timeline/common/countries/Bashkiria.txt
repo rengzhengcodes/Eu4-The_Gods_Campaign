@@ -1,0 +1,106 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 131 202 12 }
+revolutionary_colors = { 15 0 9 }
+historical_idea_groups = {
+	administrative_ideas
+	trade_ideas
+	quantity_ideas
+	expansion_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	religious_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Abdul #0" = 0
+	"Araslan #1" = 10
+	"Ashava #0" = -1
+	"Asparukh #2" = 10
+	"Asrava #0" = -1
+	"Ayasun #0" = -1
+	"Ayten #0" = -1
+	"Azeg #0" = 0
+	"Chindyapa #0" = -1
+	"Gundes #0" = -1
+	"Gunes #0" = -1
+	"Ilkay #0" = -1
+	"Kezhevat #0" = 0
+	"Kitzes #1" = 10
+	"Kristiina #0" = -1
+	"Krovat #2" = 10
+	"Kudym-Osh #1" = 10
+	"Lysko #1" = 10
+	"Mosheg #0" = 0
+	"Nuyaksha #0" = 0
+	"Osh #0" = 0
+	"Ovtay #0" = 0
+	"Ozheg #0" = 0
+	"Ozhmeg #1" = 10
+	"Paksyay #1" = 10
+	"Pemka #0" = -1
+	"Poady #0" = -1
+	"Sangasa #0" = -1
+	"Seyamka #0" = -1
+	"Slyugan'ka #0" = -1
+	"Spira #0" = 0
+	"Tetyava #0" = -1
+	"Toktu #1" = 10
+	"Tugan #1" = 10
+	"Tuhan #0" = 0
+	"Tundava #0" = -1
+	"Turush #0" = 0
+	"Uchva #0" = 0
+	"Valdava #0" = -1
+	"Özgul #0" = -1
+}
+leader_names = {
+	"Arinin"
+	"Aven"
+	"Balna"
+	"Kanin"
+	"Maimbava"
+	"Ravna"
+	"Salmiianov"
+	"Taiborey"
+	"Tsoy"
+	"Vylka"
+}
+ship_names = {
+	"Baraq"
+	"Bayan"
+	"Chimtai"
+	"Devlat Berdi"
+	"Ghengis Khan"
+	"Ilbasan"
+	"Jabbar Berdi"
+	"Jalal Ad-Din"
+	"Karim Berdi"
+	"Kebek"
+	"Kochu"
+	"Mubarrak Kwaja"
+	"Orda"
+	"Pulad"
+	"Sasibuga"
+	"Sayyid Ahmad"
+	"Shadi Beg"
+	"Timur Malik"
+	"Timur Qutlugh"
+	"Toqtamish"
+	"Tuqtaqiya"
+	"Ulugh Muhammad"
+	"Urus"
+}

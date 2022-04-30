@@ -1,0 +1,95 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 91 83 203 }
+revolutionary_colors = { 6 13 6 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	offensive_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalbert #2" = 10
+	"Adela #0" = -1
+	"Adelasia #0" = -1
+	"Aldéric #0" = 0
+	"Aliç #1" = -1
+	"Anterio #1" = 10
+	"Augustin #1" = 10
+	"Berengar #1" = 10
+	"Dobrava #1" = -1
+	"Dorothea #1" = -1
+	"Ermengard #0" = -1
+	"Freyja #1" = -1
+	"Gebhard #1" = 10
+	"Gerlach #0" = 0
+	"Gertrude #0" = -1
+	"Gottfried #1" = 10
+	"Guy #0" = 0
+	"Günther #1" = 10
+	"Heimerich #1" = 10
+	"Heimrich #1" = 10
+	"Helene #0" = -1
+	"Helga #0" = -1
+	"Hemma #1" = -1
+	"Henrike #0" = -1
+	"Hildegard #1" = -1
+	"Hoger #1" = 10
+	"Hugues #1" = 10
+	"Humbert #1" = 10
+	"Liutswind #0" = -1
+	"Lutbert #0" = 0
+	"Perinne #1" = -1
+	"Radke #1" = 10
+	"Richenza #0" = -1
+	"Wenzel #0" = 0
+	"Æthelræda #0" = -1
+}
+leader_names = {
+	"Hergenhahn"
+	"von Bieberstein"
+	"von Bock und Hemsdorf"
+	"von Dungern"
+	"von Gagern"
+	"von Idstein"
+	"von Usingen"
+	"von Walderdorff"
+	"von Weilburg"
+	"von Winzingerode"
+	"zu Sayn-Wittgeinstein"
+}
+ship_names = {
+	"Hanau"
+	"Idstein"
+	"Marburg"
+	"Ottweiler"
+	"Sonnenberg"
+	"Stirnberg"
+	"Usingen"
+	"Weilburg"
+	"Wetzlar"
+	"Wiesbaden"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

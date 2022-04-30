@@ -1,0 +1,104 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 78 65 15 }
+revolutionary_colors = { 4 0 4 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Ahvo #0" = 0
+	"Anni #0" = -1
+	"Arnbjörn #0" = 0
+	"Arvo #0" = 0
+	"Auli #0" = -1
+	"Baeivvet #1" = 10
+	"Dwo #0" = 0
+	"Eiríkr #1" = 10
+	"Ezzo #1" = 10
+	"Gyða #1" = -1
+	"Gáivvas #1" = 10
+	"Hartneid #0" = 0
+	"Heameel #0" = 0
+	"Helbe #1" = -1
+	"Hrafn #1" = 10
+	"Hungifu #0" = -1
+	"Hurmas #0" = 0
+	"Ihanus #1" = 10
+	"Ingelrade #0" = -1
+	"Ivor #0" = 0
+	"Kaja #0" = -1
+	"Kaugemeel #2" = 10
+	"Leelo #0" = -1
+	"Lev #1" = 10
+	"Ludwig #0" = 0
+	"Maches #0" = -1
+	"Nalka #1" = 10
+	"Oaván #1" = 10
+	"Onni #2" = 10
+	"Raak #1" = 10
+	"Tambet #0" = 0
+	"Trifon #1" = 10
+	"Tõeleid #0" = 0
+	"Tõnn #1" = 10
+	"Vidmantas #1" = 10
+	"Virmantas #1" = 10
+	"Värvo #0" = 0
+	"Värvu #0" = -1
+	"Wenzel #0" = 0
+	"Álvör #0" = -1
+	"Õigemeel #0" = 0
+	"Þorsteinn #0" = 0
+}
+leader_names = {
+	"Aminoff"
+	"Armfelt"
+	"Bielke"
+	"Bonde"
+	"Carpelan"
+	"Fleming"
+	"Furuhjelm"
+	"Horn"
+	"Mannerheim"
+	"Paijkull"
+	"Rehbinder"
+	"Schulman"
+	"Soop"
+	"Tott"
+	"Wrede"
+}
+ship_names = {
+	"Dobeln"
+	"Dorpat"
+	"Dünaburg"
+	"Fellin"
+	"Karkus"
+	"Kokenhusen"
+	"Riga"
+	"Segewold"
+	"Wenden"
+	"Wolmar"
+}

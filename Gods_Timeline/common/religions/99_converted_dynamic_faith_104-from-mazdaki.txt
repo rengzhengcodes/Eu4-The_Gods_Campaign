@@ -1,0 +1,40 @@
+zoroastrian_group = {
+	converted_dynamic_faith_104 = {
+		color = { 70 128 130 }
+		icon =  173
+		country = {
+ 
+		land_morale = 0.1
+	
+
+		discipline = 0.05
+	
+
+		land_morale = 0.1
+	
+
+		heir_chance = 1
+	
+}
+		country_as_secondary = {
+ 
+		land_morale = 0.1
+	
+
+		discipline = 0.025
+	
+}
+		province = {
+ 
+		local_missionary_strength = -0.02
+	
+
+		local_missionary_strength = 0.01
+	
+}
+		
+	heretic = { MANICHEAN }
+
+	}
+}
+

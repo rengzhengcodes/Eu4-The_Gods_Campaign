@@ -1,0 +1,17 @@
+owner = Z04
+controller = Z04
+capital = "Rohtasgarh"
+is_city = yes
+culture = dynamic-bengali-zhangzhung-culture-num1
+religion = vajrayana
+trade_goods = salt
+base_tax = 7
+base_production = 1
+base_manpower = 2
+add_core = Z04
+discovered_by = eastern
+discovered_by = indian
+discovered_by = muslim
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,182 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 232 149 18 }
+revolutionary_colors = { 5 13 0 }
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adémar #2" = 10
+	"Bohdana #0" = -1
+	"Boromír #2" = 10
+	"Bratislav #2" = 10
+	"Bratromila #0" = -1
+	"Bystrík #0" = 0
+	"Chvalimír #1" = 10
+	"Ctislava #0" = -1
+	"Dana #0" = -1
+	"Dobroniega #0" = -1
+	"Dobroslava #0" = -1
+	"Dragomir #0" = 0
+	"Drahomír #1" = 10
+	"Dušan #1" = 10
+	"Dušana #0" = -1
+	"Gisela #0" = -1
+	"Hedwig #0" = -1
+	"Ioana #0" = -1
+	"Ivan #1" = 10
+	"Jaromír #1" = 10
+	"Jaroslav #1" = 10
+	"Jolanta #0" = -1
+	"János #0" = 0
+	"József #0" = 0
+	"Klára #0" = -1
+	"Krasislav #1" = 10
+	"Kunigunde #0" = -1
+	"Ladomír #1" = 10
+	"Lajos #2" = 10
+	"Levente #0" = 0
+	"Lubica #0" = -1
+	"Lubomír #1" = 10
+	"Luboš #1" = 10
+	"Luca #0" = -1
+	"Magdolna #0" = -1
+	"Miroslav #0" = 0
+	"Mojmír #4" = 10
+	"Mstislav #1" = 10
+	"Múdroslav #0" = 0
+	"Orsolya #0" = -1
+	"Pravoslav #2" = 10
+	"Predslav #1" = 10
+	"Pribignev #0" = 0
+	"Pribina #1" = 10
+	"Pulcheria #0" = -1
+	"Radomír #1" = 10
+	"Rodana #0" = -1
+	"Rostislav #2" = 10
+	"Rózsa #0" = -1
+	"Slavomír #1" = 10
+	"Stastko #1" = 10
+	"Svatopluk #1" = 10
+	"Svetluša #0" = -1
+	"Sára #0" = -1
+	"Tamás #0" = 0
+	"Tatjana #0" = -1
+	"Tayyurt #0" = -1
+	"Tichomil #1" = 10
+	"Tichomír #1" = 10
+	"Vavrinec #0" = 0
+	"Velemír #1" = 10
+	"Vencel #0" = 0
+	"Viacslav #1" = 10
+	"Vladimír #0" = 0
+	"Vlastislav #2" = 10
+	"Vera #0" = -1
+	"Zdravomil #0" = 0
+	"Zdravoslav #1" = 10
+	"Zemislav #1" = 10
+	"Zoltána #0" = -1
+	"Zsolt #0" = 0
+	"Zubrivoj #2" = 10
+	"Zvonimír #0" = 0
+	"Ádárn #0" = 0
+}
+leader_names = {
+	"Berka"
+	"Capek"
+	"Harant"
+	"Haugvicové z Biskupic"
+	"Jiskra"
+	"Kaspar"
+	"Kolowrat"
+	"Komenský"
+	"Mansfeld"
+	"Petrasch"
+	"Pilchramb"
+	"Purkyne"
+	"Píka"
+	"Reiner"
+	"Schwarzenberg"
+	"Sokol"
+	"Syrový"
+	"Thurn"
+	"Velen"
+	"Veliký"
+	"Zajíc"
+	"Zelezný"
+	"z Boskovic"
+	"z Brandýsa"
+	"z Ditrichštejna"
+	"z Falkensteina"
+	"z Husi"
+	"z Kunštátu a Podebrad"
+	"z Lichtenštejna"
+	"z Nostic"
+	"z Otradovic"
+	"z Pardubic"
+	"z Pernštejna"
+	"z Polzic"
+	"z Rozmberka"
+	"z Rozmitálu"
+	"z Vartemberka"
+	"z Veleslavína"
+	"ze Lvovic"
+	"ze Svamberka"
+	"ze Zerotína"
+	"Žerotínové"
+}
+ship_names = {
+	"Bystrý"
+	"Cechy"
+	"Ctirad"
+	"Hvezda"
+	"Jan Hus"
+	"Jan Zizka"
+	"Kníze Bretislav"
+	"Král Boleslav"
+	"Král Karel"
+	"Král Premysl"
+	"Libuse"
+	"Morava"
+	"Nejsvetejsí Trojice"
+	"Neporazitelný"
+	"Odvázný"
+	"Orel"
+	"Panna Maria Vitezná"
+	"Premysl Orac"
+	"Prokop Holý"
+	"Rychlý"
+	"Sipka"
+	"Slezsko"
+	"Sokol"
+	"Svatá Anezká"
+	"Svatá Ludmila"
+	"Svatý Jan Nepomucký"
+	"Svatý Jirí"
+	"Svatý Mikulás"
+	"Svatý Vaclav"
+}
+preferred_religion = protestant

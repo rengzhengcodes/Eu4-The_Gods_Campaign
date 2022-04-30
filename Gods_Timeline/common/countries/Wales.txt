@@ -1,0 +1,199 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 117 127 174 }
+revolutionary_colors = { 0 5 10 }
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	defensive_ideas
+}
+historical_units = {
+	anglofrench_line
+	british_hussar
+	british_redcoat
+	british_square
+	gaelic_free_shooter
+	gaelic_mercenary
+	irish_charge
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_longbow
+	western_medieval_infantry
+	western_medieval_knights
+}
+monarch_names = {
+	"Algwyn #0" = 0
+	"Anauprost #0" = -1
+	"Angharad #0" = -1
+	"Beorhtgifu #0" = -1
+	"Beorhtwine #0" = 0
+	"Bodil #0" = -1
+	"Bronwen #0" = -1
+	"Ceindrych #0" = -1
+	"Cerie #0" = -1
+	"Cynehild #0" = -1
+	"Cynewulf #0" = 0
+	"Delyth #0" = -1
+	"Doniert #0" = 0
+	"Doye #0" = -1
+	"Drífa #0" = -1
+	"Dwywai #0" = -1
+	"Ealdræd #0" = 0
+	"Ealdwulf #1" = 10
+	"Ealhswith #0" = -1
+	"Efa #0" = -1
+	"Efyrddyl #0" = -1
+	"Enid #1" = -1
+	"Essyllt #0" = -1
+	"Ffilip #0" = 0
+	"Fflur #1" = -1
+	"Fuandrec #0" = -1
+	"Gerallt #0" = 0
+	"Guentigirn #0" = 0
+	"Gurli #0" = -1
+	"Gwenfrewi #0" = -1
+	"Gwenhwyfar #0" = -1
+	"Gwrgi #1" = 10
+	"Gwriad #0" = 0
+	"Hafríðr #0" = -1
+	"Heledd #0" = -1
+	"Hellawes #0" = -1
+	"Huw #0" = 0
+	"Iliana #0" = -1
+	"Iolo #0" = 0
+	"Ithel #1" = 10
+	"Karl #0" = 0
+	"Leofwine #0" = 0
+	"Lleuca #0" = -1
+	"Maches #0" = -1
+	"Mael #0" = 0
+	"Mafalda #0" = -1
+	"Mallt #0" = -1
+	"Mawd #1" = -1
+	"Meurig #0" = 0
+	"Morfarch #0" = 0
+	"Mærleswegn #0" = 0
+	"Newlyna #0" = -1
+	"Ordgar #0" = 0
+	"Osulf #0" = 0
+	"Pyr #0" = 0
+	"Sigehelm #0" = 0
+	"Sigrid #0" = -1
+	"Sion #1" = 10
+	"Sioned #0" = -1
+	"Suni #0" = 0
+	"Swithræd #1" = 10
+	"Tanaz #0" = -1
+	"Unnr #0" = -1
+	"Wulfgyth #0" = -1
+	"Wulfhild #0" = -1
+	"Wyllow #0" = 0
+	"Áslaug #0" = -1
+	"Åsbjørn #0" = 0
+	"Ælfstan #0" = 0
+	"Æthelræd #1" = 10
+	"Óttar #1" = 10
+	"Úlfhildr #0" = -1
+	"Þjóstólfr #0" = 0
+}
+leader_names = {
+	"Bennett"
+	"Bevan"
+	"Bowen"
+	"Cadell"
+	"Cadwallader"
+	"Daniels"
+	"Davies"
+	"Davis"
+	"Edwards"
+	"Ellis"
+	"Evans"
+	"Gough"
+	"Griffiths"
+	"Gwyn"
+	"Harris"
+	"Hopkins"
+	"Howells"
+	"Hughes"
+	"Humphries"
+	"James"
+	"Jenkins"
+	"John"
+	"Jones"
+	"Lewis"
+	"Llewellyn"
+	"Lloyd"
+	"Madog"
+	"Matthews"
+	"Meredith"
+	"Merrick"
+	"Morgan"
+	"Morris"
+	"Mostyn"
+	"Owen"
+	"Parry"
+	"Phillips"
+	"Powell"
+	"Prees"
+	"Price"
+	"Pritchard"
+	"Protheroe"
+	"Pugh"
+	"Rees"
+	"Richards"
+	"Roberts"
+	"Rogers"
+	"Thomas"
+	"Vaughan"
+	"Watkins"
+	"Williams"
+}
+ship_names = {
+	"Bedwyr"
+	"Brycheiniog"
+	"Cadwaladr"
+	"Caerdydd"
+	"Caernarfon"
+	"Caradoc"
+	"Ceredigion"
+	"Conwy"
+	"Culhwch"
+	"Deheubarth"
+	"Dewi Sant"
+	"Dolbadarn"
+	"Dolwyddelan"
+	"Dyfed"
+	"Eryri"
+	"Glywysing"
+	"Gwalchmei"
+	"Gwenan Gorn"
+	"Gwydion"
+	"Gwyn"
+	"Gwynedd"
+	"Lleu"
+	"Llewellyn Fawr"
+	"Mabinogi"
+	"Math"
+	"Meirionydd"
+	"Morgannwg"
+	"Olwen"
+	"Owain Glyndwr"
+	"Penfro"
+	"Powys"
+	"Preiddeu Annwn"
+	"Pryderi"
+	"Pwyll"
+	"Rhiannon"
+	"Taff"
+	"Teifi"
+	"Teirnon"
+	"Tywi"
+	"Ynys Môn"
+}

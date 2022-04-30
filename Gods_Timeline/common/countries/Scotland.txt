@@ -1,0 +1,281 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 199 175 12 }
+revolutionary_colors = { 15 0 15 }
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	exploration_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	british_hussar
+	british_redcoat
+	british_square
+	gaelic_free_shooter
+	gaelic_galloglaigh
+	gaelic_mercenary
+	irish_charge
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	scottish_highlander
+	western_medieval_infantry
+	western_medieval_knights
+}
+monarch_names = {
+	"Adèle #0" = -1
+	"Argentocoxos #1" = 10
+	"Balthild #0" = -1
+	"Beorhtmær #0" = 0
+	"Breth #1" = 10
+	"Bridei #7" = 10
+	"Burgheard #0" = 0
+	"Buthut #1" = 10
+	"Bóthildr #1" = -1
+	"Caltram #1" = 10
+	"Canuall #1" = 10
+	"Canutulachama #1" = 10
+	"Castantin #1" = 10
+	"Causantín #1" = 10
+	"Ciniod #3" = 10
+	"Cináed #1" = 10
+	"Copsige #0" = 0
+	"Cwenburg #0" = -1
+	"Cynehild #1" = -1
+	"Domnall #1" = 10
+	"Drest #10" = 10
+	"Eadburg #0" = -1
+	"Eadflæd #0" = -1
+	"Eadweald #0" = 0
+	"Eanhere #1" = 10
+	"Elpin #2" = 10
+	"Emundr #0" = 0
+	"Eorcenberht #1" = 10
+	"Eormenred #0" = 0
+	"Eormenric #0" = 0
+	"Galam #2" = 10
+	"Ganant #6" = 10
+	"Gandálfr #1" = 10
+	"Gerðr #0" = -1
+	"Guencen #0" = -1
+	"Guencenedl #1" = -1
+	"Guenmon #0" = -1
+	"Guðfríðr #1" = 10
+	"Hemingr #0" = 0
+	"Hrólfr #0" = 0
+	"Huld #1" = -1
+	"Ingimar #0" = 0
+	"Ingjaldr #1" = 10
+	"Isode #0" = -1
+	"Isolde #0" = -1
+	"Judith #0" = -1
+	"Karl #0" = 0
+	"Ketilmundr #0" = 0
+	"Leofflæd #0" = -1
+	"Leofheah #0" = 0
+	"Luitgard #0" = -1
+	"Marchell #0" = 0
+	"Margaret #0" = -1
+	"Mechthild #0" = -1
+	"Naiton #4" = 10
+	"Petre #0" = 0
+	"Petroc #0" = 0
+	"Prosguetel #0" = -1
+	"Ragnhildr #0" = -1
+	"Refr #0" = 0
+	"Ru #1" = 10
+	"Rögnfríðr #1" = -1
+	"Sighere #0" = 0
+	"Sigrid #0" = -1
+	"Sigurðr #0" = 0
+	"Siwan #0" = -1
+	"Siweard #0" = 0
+	"Skjöldr #0" = 0
+	"Starkaðr #1" = 10
+	"Svanhildr #0" = -1
+	"Sveinn #0" = 0
+	"Swithelm #0" = 0
+	"Sæmundr #1" = 10
+	"Taran #1" = 10
+	"Tecla #0" = -1
+	"Telurg #7" = 10
+	"Telurgan #2" = 10
+	"Tudi #1" = 10
+	"Uhtræd #0" = 0
+	"Uipoig #1" = 10
+	"Unuist #3" = 10
+	"Uuen #1" = 10
+	"Uurad #1" = 10
+	"Uuredach #1" = 10
+	"Valdemar #0" = 0
+	"Wulfgeat #0" = 0
+	"Wulfthryth #0" = -1
+	"Áki #0" = 0
+	"Áli #1" = 10
+	"Ása #0" = -1
+	"Æbba #0" = -1
+	"Ælfgifu #0" = -1
+	"Ælfgyth #0" = -1
+	"Ælfmær #0" = 0
+	"Ælfrida #0" = -1
+	"Ælfræd #0" = 0
+	"Æthelflæd #0" = -1
+	"Æthelmær #0" = 0
+	"Æthelsige #0" = 0
+	"Æthelweald #0" = 0
+	"Óttar #2" = 10
+	"Örvar #0" = 0
+	"Ýr #1" = -1
+	"Þóra #0" = -1
+	"Þórdís #1" = -1
+}
+leader_names = {
+	"Adam"
+	"Alexander"
+	"Beaton"
+	"Boyd"
+	"Bruce"
+	"Cameron"
+	"Campbell"
+	"Carnegie"
+	"Cochrane"
+	"Colyear"
+	"Crawford"
+	"Crichton"
+	"Cunynghame"
+	"Dalzell"
+	"Douglas"
+	"Drummond"
+	"Duncan"
+	"Erskine"
+	"Ferguson"
+	"Fleming"
+	"Fletcher"
+	"Forbes"
+	"Gilchrist"
+	"Gordon"
+	"Graham"
+	"Hamilton"
+	"Hepburn"
+	"Hume"
+	"Johnstone"
+	"Keith"
+	"Kerr"
+	"Knox"
+	"Law"
+	"Leslie"
+	"Lindsay"
+	"Livingston"
+	"MacDonald"
+	"MacGregor"
+	"MacKenzie"
+	"MacTaggart"
+	"Maitland"
+	"Malise"
+	"Maxwell"
+	"Montgomerie"
+	"Murray"
+	"Nasmyth"
+	"Ogilvy"
+	"Paterson"
+	"Playfair"
+	"Raeburn"
+	"Randolph"
+	"Ruthven"
+	"Selkirk"
+	"Seton"
+	"Sinclair"
+	"Stewart"
+	"Strathbogie"
+	"Wemyss"
+	"Wilkie"
+	"Wishart"
+	"de Dunbar"
+}
+ship_names = {
+	"Alexander Gaily"
+	"Ann of Anstruther"
+	"Ann of Caledonia"
+	"Annandale"
+	"Anthony"
+	"Bonaventure"
+	"Bosse"
+	"Caledonia"
+	"Christian of Bo'ness"
+	"Christopher"
+	"Colomb"
+	"Continent"
+	"David"
+	"Dogarvine of Londonderry"
+	"Dolphin"
+	"Duke of Hamilton"
+	"Dumbarton Castle"
+	"Eagle"
+	"Effenying Castle"
+	"Elizabeth"
+	"Endeavour"
+	"Flower"
+	"Fortune"
+	"Good Fortune"
+	"Great Lyon"
+	"Great Spaniard"
+	"Great Unicorn"
+	"Greentree"
+	"Hope"
+	"Hope of Bo'ness"
+	"Hopeful Beginning"
+	"Instauration"
+	"James"
+	"James of Anstruther"
+	"Janet"
+	"Jennet Purwyn"
+	"King's Carvel"
+	"Lamb of Glasgow"
+	"Lamb of Leith"
+	"Lesley"
+	"Little Unicorn"
+	"Lyon"
+	"Margaret"
+	"Margaret of Peterhead"
+	"Mary Walsingham"
+	"Mary Willoughby"
+	"Mercury"
+	"Michael"
+	"Moriset"
+	"Morton"
+	"Olive Branch"
+	"Pelican"
+	"Phoenix"
+	"Phoenix of Glasgow"
+	"Prince Rupert"
+	"Providence of Dundee"
+	"Providence of Kirkcaldy"
+	"Rainbow"
+	"Reid Lyon"
+	"Rising Sun"
+	"Rothes"
+	"Royal Mary"
+	"Royal William"
+	"Saint Andrew"
+	"Salamander"
+	"Society"
+	"Speedwell"
+	"Speedy Return"
+	"Thistle"
+	"Towaich"
+	"Treasurer"
+	"Unicorn"
+	"Union"
+	"Venture"
+	"Wemyss"
+	"William and George"
+	"William and Mary"
+	"Yellow Carvel"
+}
+preferred_religion = reformed

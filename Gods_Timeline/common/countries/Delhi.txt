@@ -1,0 +1,132 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 157 200 42 }
+revolutionary_colors = { 10 4 13 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Alsi #3" = 10
+	"Anjali #0" = -1
+	"Arjunpala #1" = 10
+	"Bhilpala #1" = 10
+	"Bhoja #1" = 10
+	"Bumphulwa #0" = -1
+	"Ce #1" = 10
+	"Chandrabbalabbe #1" = -1
+	"Chimza #0" = -1
+	"Chökyi #0" = -1
+	"Dantidurga #0" = 0
+	"Dhruva #1" = 10
+	"Dolkar #0" = -1
+	"Duktsuk #0" = -1
+	"Falak #0" = -1
+	"Farhad #0" = 0
+	"Gajankusha #0" = 0
+	"Gyelpa #0" = 0
+	"Hamsi #0" = -1
+	"Harachipar #0" = 0
+	"Hoysaladevi #1" = -1
+	"Jhetpala #0" = 0
+	"Jogama #0" = 0
+	"Juwariyah #0" = -1
+	"Kakanvati #0" = -1
+	"Kakhopal #0" = 0
+	"Kalyanachandra #0" = 0
+	"Kang #0" = -1
+	"Kantan Kumaran #0" = 0
+	"Kelyenmel #1" = 10
+	"Kiriyasaga #0" = 0
+	"Kumaradevi #0" = -1
+	"Kundakadevi #1" = -1
+	"Kunla #0" = 0
+	"Kurukulla #0" = -1
+	"Kuñcaramalli #0" = -1
+	"Löpo #0" = 0
+	"Mahendrapala #1" = 10
+	"Meka #0" = 0
+	"Migmar #0" = 0
+	"Milwo #0" = 0
+	"Pebon #1" = 10
+	"Pel #0" = 0
+	"Phoyongsa #1" = -1
+	"Popo #0" = -1
+	"Péma #0" = 0
+	"Rachamalla #0" = 0
+	"Ramachandra #1" = 10
+	"Rampal #0" = 0
+	"Revakanimmadi #0" = -1
+	"Rinzen #0" = -1
+	"Saibai #0" = -1
+	"Salwa #1" = 10
+	"Saugandeva #1" = 10
+	"Senöl #0" = 0
+	"Sherab #0" = 0
+	"Shonnu #0" = -1
+	"Suratissa #0" = 0
+	"Tridring #0" = 0
+	"Trimonyen #0" = -1
+	"Virupaksha #4" = 10
+	"Vitari #0" = -1
+	"Yid #0" = -1
+	"Ögyel #0" = 0
+}
+leader_names = {
+	"Ali"
+	"Azad"
+	"Bhutto"
+	"Hussein"
+	"Jahan"
+	"Khan"
+	"Lodi"
+	"Lohia"
+	"Musharif"
+	"Nagar"
+	"Nazimuddin"
+	"Ra'ana"
+	"Sharif"
+	"Sharma"
+	"Sinan"
+	"Singh"
+	"Viqar-ul-Mulk"
+}
+ship_names = {
+	"Alia"
+	"Chambal"
+	"Fatimah"
+	"Ganges"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Noor"
+	"Sagar"
+	"Spiti"
+	"Yamuna"
+	"Yasmine"
+}

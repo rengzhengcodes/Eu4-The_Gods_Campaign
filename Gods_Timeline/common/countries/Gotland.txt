@@ -1,0 +1,159 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 191 113 133 }
+revolutionary_colors = { 8 5 8 }
+historical_idea_groups = {
+	maritime_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aldona #0" = -1
+	"Arnfast #1" = 10
+	"Beata #0" = -1
+	"Buðli #1" = 10
+	"Fasti #1" = 10
+	"Gniewomir #0" = 0
+	"Holmger #2" = 10
+	"Hrólfr #1" = 10
+	"Ingemar #1" = 10
+	"Jakob #1" = 10
+	"Järpulf #1" = 10
+	"Józef #0" = 0
+	"Kirsten #1" = -1
+	"Kolbjörn #1" = 10
+	"Lennart #1" = 10
+	"Lykke #1" = -1
+	"Maria #0" = -1
+	"Mojca #0" = -1
+	"Sigfred #1" = 10
+	"Starkad #2" = 10
+	"Thordis #1" = -1
+	"Trojden #0" = 0
+	"Þorfinnr #1" = 10
+}
+leader_names = {
+	"Andersson"
+	"Andreasson"
+	"Anward"
+	"Aytoun"
+	"Backlund"
+	"Ballantyne"
+	"Beaumont"
+	"Bergqwist"
+	"Berni"
+	"Bjarnehed"
+	"Björk"
+	"Borg"
+	"Capstick"
+	"Corominas"
+	"Drevendal"
+	"Edström"
+	"Eklund"
+	"Eriksson"
+	"Foxander"
+	"Fåhraeus"
+	"Gabryel"
+	"Garcia"
+	"Gidfors"
+	"Gladh"
+	"González"
+	"Hansson"
+	"Hesselborn"
+	"Holmgren"
+	"Horler"
+	"Höglund"
+	"Isaksson"
+	"Ivannikov"
+	"Izquierdo"
+	"Jakobsson"
+	"Jensen"
+	"Johannesson"
+	"Johansson"
+	"Khanagov"
+	"Kiby"
+	"King"
+	"Korhonen"
+	"Kowalcyzk"
+	"Kuiper"
+	"Kundak-Cowall"
+	"Lagerbäck"
+	"Lerström"
+	"Linares"
+	"Lind"
+	"Lohmander"
+	"Mannetje"
+	"Martins"
+	"Millen"
+	"Moltó"
+	"Nicholson"
+	"Norrevik"
+	"Olsson"
+	"Palmqvist"
+	"Pazos"
+	"Perez"
+	"Rodriguez"
+	"Ropert"
+	"Rönn"
+	"Salazar"
+	"Santiago"
+	"Sanz"
+	"Sarell"
+	"Schießl"
+	"Sjöström"
+	"Skoglund"
+	"Sommerdahl"
+	"Strid"
+	"Tammpere"
+	"Thulin"
+	"Tiger"
+	"Toll"
+	"Tolman"
+	"Tronde"
+	"Trullenque"
+	"Vicent"
+	"Villberg"
+	"Virtanen"
+	"Wendel-Örtqvist"
+	"Yildirim"
+	"Young"
+	"Zetterman"
+	"du Plessis"
+	"Åberg"
+	"Åslund"
+}
+ship_names = {
+	"Burgsvik"
+	"Djauvik"
+	"Drake"
+	"Fårösund"
+	"Gnisvärd"
+	"Hoburgen"
+	"Katthamra"
+	"Klintehamn"
+	"Ljugarn"
+	"Slite"
+	"Visby"
+	"Västergarn"
+}

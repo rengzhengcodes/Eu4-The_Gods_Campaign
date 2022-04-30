@@ -1,0 +1,118 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 118 193 153 }
+revolutionary_colors = { 5 1 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	quality_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_tercio
+	dutch_maurician
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adela #1" = -1
+	"Adriaen #1" = 10
+	"Agathe #1" = -1
+	"Anselm #1" = 10
+	"Arnulf #1" = 10
+	"Bava #1" = -1
+	"Bedrich #2" = 10
+	"Bergþóra #0" = -1
+	"Cerie #0" = -1
+	"Cynog #0" = 0
+	"Diedke #0" = -1
+	"Ecgwyn #0" = -1
+	"Einarr #0" = 0
+	"Ermengarde #1" = -1
+	"Gebhard #2" = 10
+	"Giselbert #1" = 10
+	"Gwenwyn #0" = -1
+	"Gyríðr #0" = -1
+	"Géraud #1" = 10
+	"Hereswith #0" = -1
+	"Hildebert #2" = 10
+	"Irene #1" = -1
+	"Isoude #0" = -1
+	"Karin #0" = -1
+	"Kráka #0" = -1
+	"Kári #0" = 0
+	"Lothaire #1" = 10
+	"Maenyrch #0" = 0
+	"Magnus #1" = 10
+	"Manfred #1" = 10
+	"Marquesa #1" = -1
+	"Mattheus #0" = 0
+	"Meirion #0" = 0
+	"Othon #1" = 10
+	"Raisenda #1" = -1
+	"Reginar #1" = 10
+	"Richard #1" = 10
+	"Richwin #1" = 10
+	"Roland #1" = 10
+	"Rorgues #1" = 10
+	"Sampo #0" = 0
+	"Sebastiaen #1" = 10
+	"Starkaðr #0" = 0
+	"Sumarliði #0" = 0
+	"Sága #0" = -1
+	"Taliesin #0" = 0
+	"Wislawa #0" = -1
+	"Ylva #0" = -1
+}
+leader_names = {
+	"Albers"
+	"Aylett"
+	"Bielmacker"
+	"Camper"
+	"Debruyne"
+	"Jansen"
+	"Leschwein"
+	"Maas"
+	"Mons"
+	"Orthellius"
+	"Quellinus"
+	"de Avesnes"
+	"de Houtman"
+	"de Leeuw"
+	"van Egmont"
+	"van Kahlden"
+	"van Loewen"
+	"van Meteren"
+	"van Noort"
+	"van Wyhe"
+	"van der Most"
+}
+ship_names = {
+	"Brussel"
+	"Dender"
+	"Doornik"
+	"Edingen"
+	"Filips van Saint-Pol"
+	"Godfried I"
+	"Hendrik I"
+	"Hendrik van Leuven"
+	"Hertog Jan"
+	"Hertogin Johanna"
+	"Jan I"
+	"Mechelen"
+	"Namen"
+	"Zenne"
+}

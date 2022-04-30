@@ -1,0 +1,90 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 44 160 70 }
+revolutionary_colors = { 5 16 1 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	quantity_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Abakar #1" = 10
+	"Abubakari #1" = 10
+	"Adejinle #1" = 10
+	"Adiba #1" = -1
+	"Ali #1" = 10
+	"Azrur #0" = 0
+	"Chaski #0" = -1
+	"Dahab #0" = 0
+	"Dal #1" = 10
+	"Doro #1" = 10
+	"Duga #1" = -1
+	"Fatima #1" = -1
+	"Frawsen #1" = 10
+	"Gazargamu #1" = -1
+	"Germanos #0" = 0
+	"Gosgod #1" = -1
+	"Hinda #0" = -1
+	"Kakaw #1" = -1
+	"Kale #0" = -1
+	"Kasefroge #0" = 0
+	"Ku #0" = 0
+	"Makka #1" = -1
+	"Malina #1" = -1
+	"Mariam #1" = -1
+	"Niye #0" = -1
+	"Noumouroudou #0" = 0
+	"Oluwafunmilayo #1" = -1
+	"Onyeka #1" = -1
+	"Sinbad #0" = 0
+	"Sita #1" = 10
+	"Taffounnout #0" = 0
+	"Ter #1" = -1
+	"Tinzert #0" = -1
+	"Urz'ig #0" = 0
+	"Z'diant #0" = -1
+	"al-Athîr #0" = 0
+}
+leader_names = {
+	"Abboud"
+	"Fung"
+	"Garang"
+	"Kayra"
+	"Keira"
+	"Kelueljang"
+	"Lugor"
+	"Nuer"
+	"Shol"
+	"Taha"
+}
+ship_names = {
+	"Amenirdis"
+	"Amon"
+	"Apedemak"
+	"Arensnuphis"
+	"Bes"
+	"Dedwen"
+	"Khnum"
+	"Mandulis"
+	"Mut"
+	"Taweret"
+	"Tefnut"
+}

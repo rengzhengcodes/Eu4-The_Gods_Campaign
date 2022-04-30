@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = muslim
+religion = mazdaki
+primary_culture = dynamic-tajik-culture-num1
+capital = 445
+mercantilism = 15
+1444.11.11= {
+	monarch = {
+		name = "Jamileh"
+		dynasty = "Yektid"
+		adm = 5
+		dip = 4
+		mil = 6
+		birth_date = 1379.6.28
+		female = yes
+		religion = mazdaki
+		culture = dynamic-tajik-culture-num1
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Humayon"
+		dynasty = "Farzan"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = Z2T
+		birth_date = 1404.10.12
+		death_date = 1464.10.12
+		religion = mazdaki
+		culture = tajik
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Shokouh"
+		monarch_name = "Shokouh"
+		dynasty = "Mlechchha-Tsongdu"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1406.9.8
+		death_date = 1471.9.8
+		female = yes
+		claim = 89
+		religion = mazdaki
+		culture = dynamic-tajik-culture-num1
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 82
+	add_treasury = 73
+}

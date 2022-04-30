@@ -1,0 +1,153 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 34 30 174 }
+revolutionary_colors = { 14 0 14 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	religious_ideas
+	administrative_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	italian_condotta
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	spanish_tercio
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Agnes #1" = -1
+	"Bonuslo #0" = 0
+	"Emmerich #2" = 10
+	"Erth #0" = 0
+	"Euphrasia #1" = -1
+	"Frode #0" = 0
+	"Gerkus #0" = -1
+	"Glande #0" = 0
+	"Géza #0" = 0
+	"Heribert #2" = 10
+	"Imre #0" = 0
+	"Lucinetta #1" = -1
+	"Mamma #1" = -1
+	"Manfredo #2" = 10
+	"Math #0" = 0
+	"Mathilde #0" = -1
+	"Rasa #0" = -1
+	"Roberto #1" = 10
+	"Sabas #1" = 10
+	"Unruoch #1" = 10
+	"Wattas #2" = 10
+	"Álfrhildr #1" = -1
+}
+leader_names = {
+	"Adelasio"
+	"Aldini"
+	"Alessandri"
+	"Arborio Mella"
+	"Barbiano Belgioioso"
+	"Bargnani"
+	"Bigliori di Lava"
+	"Birago"
+	"Borromeo"
+	"Brunetti"
+	"Caetani"
+	"Caracciolo"
+	"Carafa"
+	"Containi"
+	"Franchi"
+	"Ghislieri"
+	"Gonzaga"
+	"Grimaldi di Busca"
+	"Lamberti"
+	"Luosi"
+	"Luserna Bigliori"
+	"Luserna della Torre"
+	"Mancini"
+	"Medici di Marignano"
+	"Melzi"
+	"Moscati"
+	"Odescalchi"
+	"Paleologi Montferrato"
+	"Paradisi"
+	"Pico"
+	"Ruga"
+	"Sabbati"
+	"Savoldi"
+	"Serbelloni"
+	"Sfondrati"
+	"Sforza"
+	"Sommariva"
+	"Sopransi"
+	"Spinola"
+	"Testi"
+	"Tizzone"
+	"Visconti"
+	"de Guzman"
+	"de Leiva"
+	"del Carreto"
+	"del Monte"
+	"della Scalla"
+	"di Campofregoso"
+	"di Cardé"
+	"di Saluzzo"
+}
+ship_names = {
+	"Alliata"
+	"Ansperto"
+	"Ariberto d'Intimiano"
+	"Azzone Visconti"
+	"Celentano"
+	"Como"
+	"Corrado II"
+	"Cremona"
+	"Filippo Maria"
+	"Fiume Seveso"
+	"Fiumi Lambro"
+	"Fiumi l'Olona"
+	"Francesco Sforza"
+	"Gian Galeazzo Visconti"
+	"Lecco"
+	"Lodi"
+	"Lombardia"
+	"Pavia"
+	"Re Alboino"
+	"San Babila"
+	"San Bernardino alle Ossa"
+	"San Cristoforo sul Naviglio"
+	"San Giovanni in Conca"
+	"San Gottardo"
+	"San Lorenzo"
+	"San Marco"
+	"San Nazaro Maggiore"
+	"San Satiro"
+	"San Simpliciano"
+	"Sant'Agostino"
+	"Sant'Ambrogio"
+	"Sant'Eustorgio"
+	"Santa Maria dei Miracoli"
+	"Santo Stefano"
+	"Sondrio"
+	"Teodolinda"
+	"Terragni"
+	"Torriani"
+	"Valperto"
+	"Varese"
+	"Virgilio"
+	"come Angilberto"
+}
+army_names = {
+	"Armata de $PROVINCE$"
+}

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = chinese
+religion = tengri_pagan
+primary_culture = dynamic-mongol-yakut-culture-num1
+capital = 1065
+add_accepted_culture = buryat
+1444.11.11= {
+	monarch = {
+		name = "Inancha II"
+		dynasty = "Omakid"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1394.8.20
+		religion = tengri_pagan
+		culture = dynamic-mongol-yakut-culture-num1
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ipekel"
+		dynasty = "Kobyakid"
+		adm = 5
+		dip = 4
+		mil = 4
+		country_of_origin = Z03
+		birth_date = 1385.11.8
+		death_date = 1445.11.8
+		female = yes
+		religion = tengri_pagan
+		culture = khazak
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Torolchi"
+		monarch_name = "Torolchi"
+		dynasty = "Omakid"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1415.5.5
+		death_date = 1480.5.5
+		claim = 89
+		religion = tengri_pagan
+		culture = dynamic-mongol-yakut-culture-num1
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 103
+	add_treasury = 58
+}

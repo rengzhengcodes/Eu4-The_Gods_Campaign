@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 195 50 10 }
+monarch_names = {
+	"Bakhtari #1" = 10
+	"Bauladevi #0" = -1
+	"Bukka #1" = 10
+	"Farrukhzad #1" = 10
+	"Gobburi #1" = 10
+	"Iffah #0" = -1
+	"Junaid #1" = 10
+	"Kharak #1" = 10
+	"Madanavarman #1" = 10
+	"Madhavi #0" = -1
+	"Mahipala #0" = 0
+	"Nagraja #1" = 10
+	"Ngarmaba #0" = 0
+	"Owais #3" = 10
+	"Prasadhanadevi #1" = -1
+	"Rudrapala #1" = 10
+	"Samarasimha #1" = 10
+	"Samyukta #1" = -1
+	"Shaya #0" = 0
+	"Shuchi-Verma #2" = 10
+}

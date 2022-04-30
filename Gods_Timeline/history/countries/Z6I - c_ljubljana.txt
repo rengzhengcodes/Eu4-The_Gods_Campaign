@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = dynamic-hungarian-old_prussian-culture-num1
+capital = 4738
+fixed_capital = 4738
+1444.11.11= {
+	add_prestige = 66
+	add_treasury = 52
+}

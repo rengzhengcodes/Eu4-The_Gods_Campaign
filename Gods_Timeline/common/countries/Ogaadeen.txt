@@ -1,0 +1,89 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 169 168 101 }
+revolutionary_colors = { 15 0 15 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	quantity_ideas
+}
+historical_units = {
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_clubmen
+	african_dragoon
+	african_hussar
+	african_somali_cavalry
+	african_western_franchise_warfare
+	bantu_gunpowder_warfare
+	bantu_plains_warfare
+	bantu_tribal_warfare
+	westernized_bantu
+}
+monarch_names = {
+	"Adeer #1" = 10
+	"Asha #1" = -1
+	"Azam #0" = 0
+	"Bernardino #0" = 0
+	"Berta #0" = 0
+	"Bisera #0" = -1
+	"Bosporios #1" = 10
+	"Eremias #0" = 0
+	"Furuzan #0" = -1
+	"Hierotheos #1" = 10
+	"Ioseph #0" = 0
+	"Isidoros #1" = 10
+	"Kedafu #0" = 0
+	"Kosmas #1" = 10
+	"Laurentios #0" = 0
+	"Ljubomir #0" = 0
+	"Magol #0" = -1
+	"Mahamed #0" = 0
+	"Makda #0" = -1
+	"Marturophoros #0" = 0
+	"Nasiba #1" = -1
+	"Nassir #1" = 10
+	"Nonna #0" = -1
+	"Photios #1" = 10
+	"Romylia #1" = -1
+	"Sabr #1" = 10
+	"Sadiq #0" = 0
+	"Stracimir #0" = 0
+	"Tarifa #0" = -1
+	"Tessema #0" = 0
+	"Thekla #1" = -1
+	"Theodosia #1" = -1
+	"Theodotos #0" = 0
+	"Thomas #1" = 10
+	"Umardin #1" = 10
+	"Vojnomir #0" = 0
+}
+leader_names = {
+	"Birir"
+	"Chirombo"
+	"Chrima"
+	"Kagona"
+	"Moyo"
+	"Mutasa"
+	"Njie"
+	"Nkomo"
+	"Rise"
+	"Tembo"
+}
+ship_names = {
+	"Dziva"
+	"Dzivaguru"
+	"Mai Vedu"
+	"Mazendere"
+	"Mbonga"
+	"Mulungu"
+	"Musikavanhu"
+	"Mutorwa"
+	"Mwari"
+	"Svikiro"
+}

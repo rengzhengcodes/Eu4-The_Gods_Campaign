@@ -1,0 +1,90 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 228 243 104 }
+revolutionary_colors = { 15 8 10 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Ali Baba #2" = 10
+	"Angrun #1" = 10
+	"Aristarchos #0" = 0
+	"Asiya #0" = -1
+	"Assefa #1" = 10
+	"Cededa #1" = -1
+	"Clàudia #1" = -1
+	"Eulalia #0" = -1
+	"Giorgi #1" = 10
+	"Iouliana #0" = -1
+	"Iôannou #0" = 0
+	"Jabir #0" = 0
+	"Jahzara #2" = -1
+	"Kanun #1" = 10
+	"Ladislav #1" = 10
+	"Livia #1" = -1
+	"Marturophoros #0" = 0
+	"Phokas #0" = 0
+	"Simin #1" = -1
+	"Sina'eif #1" = 10
+	"Solomôn #1" = 10
+	"Sumbat #0" = 0
+	"Symmachos #1" = 10
+	"Taliba #0" = -1
+	"Theognosta #1" = -1
+	"Theophania #1" = -1
+	"Tiberios #0" = 0
+	"Tomaš #0" = 0
+	"Yahya #0" = 0
+	"Zubeyr #1" = 10
+	"Ñašša #1" = -1
+}
+leader_names = {
+	"Amarar"
+	"Balawat"
+	"Banu Amir"
+	"Beni-Amer"
+	"Bisharin"
+	"Hadendowa"
+	"Hallenga"
+	"Hamran"
+	"Hederab"
+	"Nabtab"
+}
+ship_names = {
+	"Asayita"
+	"Aura"
+	"Awash"
+	"Berahle"
+	"Chifra"
+	"Dallol"
+	"Dubti"
+	"Dulecha"
+	"Elidar"
+	"Ewa"
+	"Gewane"
+	"Koneba"
+	"Mille"
+	"Semera"
+	"Simurobi"
+	"Yalo"
+}

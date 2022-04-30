@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_103
+primary_culture = norwegian
+capital = 24
+1444.11.11= {
+	monarch = {
+		name = "Arthfael"
+		dynasty = "Zukunft-Björgyn"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1367.2.3
+		religion = converted_dynamic_faith_103
+		culture = norwegian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Beorngyth"
+		dynasty = "Zukunft-Jarnamóða"
+		adm = 6
+		dip = 4
+		mil = 5
+		country_of_origin = Z48
+		birth_date = 1367.3.9
+		death_date = 1427.3.9
+		female = yes
+		religion = converted_dynamic_faith_103
+		culture = dynamic-anglo_saxon-norse-culture-num1
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Iliana"
+		monarch_name = "Iliana"
+		dynasty = "Zukunft-Björgyn"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1404.2.21
+		death_date = 1469.2.21
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_103
+		culture = norwegian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 99
+	add_treasury = 54
+}

@@ -1,0 +1,96 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 138 110 130 }
+revolutionary_colors = { 15 0 15 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Aigidia #2" = -1
+	"Akakios #0" = 0
+	"Anna #0" = -1
+	"Antonios #0" = 0
+	"Apollonia #0" = -1
+	"Arsenios #0" = 0
+	"Bashir #1" = 10
+	"Basillike #0" = -1
+	"Besar #0" = 0
+	"Binyamin #1" = 10
+	"Damiane #0" = -1
+	"Dionysia #0" = -1
+	"Dorothea #1" = -1
+	"Eusebia #0" = -1
+	"Gregoras #1" = 10
+	"Grgur #1" = 10
+	"Ioannes #1" = 10
+	"Katarina #0" = -1
+	"Kyriakos #0" = 0
+	"Lot #1" = 10
+	"Melissa #1" = -1
+	"Pantoleon #1" = 10
+	"Petros #0" = 0
+	"Photios #0" = 0
+	"Sergios #1" = 10
+	"Shuayb #1" = 10
+	"Sophia #1" = -1
+	"Symeon #1" = 10
+	"Theodora #1" = -1
+	"Theodotos #1" = 10
+	"Theophanes #0" = 0
+	"Umar #1" = 10
+	"Uros #1" = 10
+	"Zacharias #1" = 10
+	"Zenon #1" = 10
+}
+leader_names = {
+	"Argyrus"
+	"Artavasdus"
+	"Basileus"
+	"Diogenes"
+	"Ducas"
+	"Monomachus"
+	"Morosini"
+	"Romanus"
+	"Stauracius"
+	"Stratioticus"
+	"Vataces"
+	"Zimisces"
+	"de Vendôme"
+}
+ship_names = {
+	"Dermoaros"
+	"Frangokastelo"
+	"Glalos"
+	"Koudouras"
+	"Lentas"
+	"Matala"
+	"Paleochora"
+	"Papadogiannis"
+	"Plakias"
+	"Sougia"
+}

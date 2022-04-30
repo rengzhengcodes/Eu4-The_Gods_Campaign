@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = kashmiri
+capital = 2073
+add_accepted_culture = saka
+1444.11.11= {
+	monarch = {
+		name = "Kyidé"
+		dynasty = "Gilgitid"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1383.2.2
+		religion = hinduism
+		culture = kashmiri
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Aasha"
+		dynasty = "Utpala"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = Z39
+		birth_date = 1383.10.4
+		death_date = 1443.10.4
+		female = yes
+		religion = hinduism
+		culture = kashmiri
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Brij"
+		monarch_name = "Brij II"
+		dynasty = "Gilgitid"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1404.12.1
+		death_date = 1469.12.1
+		claim = 89
+		religion = hinduism
+		culture = kashmiri
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 76
+	add_treasury = 75
+}

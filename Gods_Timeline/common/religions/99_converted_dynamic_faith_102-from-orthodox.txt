@@ -1,0 +1,46 @@
+christian = {
+	converted_dynamic_faith_102 = {
+		color = { 99 9 116 }
+		icon =  171
+		country = {
+ 
+		warscore_cost_vs_other_religion = -0.25
+		tolerance_heathen = -1
+		tolerance_heretic = -1
+	
+
+		discipline = 0.05
+	
+
+		female_advisor_chance = 0.5
+	
+
+		tolerance_heathen = -1
+		tolerance_heretic = -1
+	
+}
+		country_as_secondary = {
+ 
+		warscore_cost_vs_other_religion = -0.25
+	
+
+		discipline = 0.025
+	
+}
+		province = {
+ 
+		local_missionary_strength = -0.02
+	
+
+		local_missionary_strength = -0.02
+	
+}
+		
+		has_patriarchs = yes
+	
+		
+	heretic = { OLD_BELIEVER MOLOKAN DUKHOBOR KHLYST SKOPTSY ICONOCLAST }
+
+	}
+}
+

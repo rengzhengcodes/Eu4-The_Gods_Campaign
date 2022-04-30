@@ -1,0 +1,177 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 195 104 228 }
+revolutionary_colors = { 8 13 8 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+historical_units = {
+	anglofrench_line
+	dutch_maurician
+	french_bluecoat
+	french_caracolle
+	french_cuirassier
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aimery #0" = 0
+	"Ansgar #0" = 0
+	"Aubry #1" = 10
+	"Barthélémi #0" = 0
+	"Betto #1" = 10
+	"Denise #0" = -1
+	"Gargamel #1" = 10
+	"Giacinta #1" = -1
+	"Gospatric #0" = 0
+	"Guy #2" = 10
+	"Hugo #1" = 10
+	"Ida #2" = -1
+	"Jarka #0" = -1
+	"Jaspert #0" = 0
+	"Karlotte #0" = -1
+	"Lech #0" = 0
+	"Leofrun #0" = -1
+	"Lucinetta #0" = -1
+	"Lucjan #0" = 0
+	"Margot #0" = -1
+	"Mstivoj #1" = 10
+	"Pandolfo #1" = 10
+	"Przemysl #0" = 0
+	"Regelinda #0" = -1
+	"Richard #3" = 10
+	"Seaxburh #0" = -1
+	"Solène #1" = -1
+	"Theochariste #0" = -1
+	"Thierry #0" = 0
+	"Álfrhildr #0" = -1
+	"Étienne #0" = 0
+}
+leader_names = {
+	"Andrault de Langeron"
+	"Angrand d'Alleray"
+	"Des Prez"
+	"Gascoing"
+	"La Vaux"
+	"Perreau"
+	"Rousseau de Chamoy"
+	"Tenaille"
+	"Vaillant de Guélis"
+	"d'Ailly"
+	"d'Alixand"
+	"d'Anlezy"
+	"d'Armes"
+	"d'Estutt"
+	"d'Inteville"
+	"de Berthier"
+	"de Bonnay"
+	"de Borniol"
+	"de Bourgoing"
+	"de Bèze"
+	"de Bélanger"
+	"de Chabannes"
+	"de Chassy"
+	"de Chevenon"
+	"de Damas"
+	"de Gonzague"
+	"de Husson"
+	"de La Boulaye"
+	"de La Buxières"
+	"de Maulnoury"
+	"de Maumigny"
+	"de Mesgriny"
+	"de Norry"
+	"de Paris"
+	"de Rouffignac"
+	"de Rémigny"
+	"de Saincy"
+	"de Saint-Verrain"
+	"de Sainte-Maure"
+	"de Sandras"
+	"de Sérent"
+	"de Toucy"
+	"de Troussebois"
+	"de Vaux"
+	"de Viau"
+	"de Villars"
+	"de la Ferté-Meun"
+	"du Broc"
+	"du Verne"
+	"Éon de Beaumont"
+}
+ship_names = {
+	"l'Imphy"
+	"la Charité"
+	"la Machine"
+	"le Brinon"
+	"le Cercy-la-Tour"
+	"le Chevenon"
+	"le Châtillon-en-Bazois"
+	"le Clamecy"
+	"le Corbigny"
+	"le Cossaye"
+	"le Coulanges"
+	"le Decize"
+	"le Dompierre"
+	"le Donzy"
+	"le Dornes"
+	"le Fourchambault"
+	"le Fours"
+	"le Frasnay-Reugny"
+	"le Garchy"
+	"le Guérigny"
+	"le Luthenay-Uxeloup"
+	"le Luzy"
+	"le Magny-Cours"
+	"le Marzy"
+	"le Menou"
+	"le Montambert"
+	"le Moulins-Engilbert"
+	"le Nevers"
+	"le Pougues"
+	"le Pouilly"
+	"le Prémery"
+	"le Saint-Aubin"
+	"le Saint-Benin-d'Azy"
+	"le Saint-Franchy"
+	"le Saint-Germain"
+	"le Saint-Gratien-Savigny"
+	"le Saint-Honoré"
+	"le Saint-Imbert"
+	"le Saint-Malo-en-Donziers"
+	"le Saint-Ouen"
+	"le Saint-Parize-en-Viry"
+	"le Saint-Pierre-le-Moûtier"
+	"le Saint-Révérien"
+	"le Saint-Saulge"
+	"le Saint-Éloi"
+	"le Sainte-Marie"
+	"le Tannay"
+	"le Vandenesse"
+	"le Varennes-Vauzelle"
+	"le Varzy"
+}
+army_names = {
+	"Armée de $PROVINCE$"
+	"Armée de La Ferté-Langeron"
+	"Armée du Bazois"
+	"Armée du Charitois"
+	"Armée du Corbigeois"
+	"Armée du Dionzais"
+	"Armée du Nivernais"
+}

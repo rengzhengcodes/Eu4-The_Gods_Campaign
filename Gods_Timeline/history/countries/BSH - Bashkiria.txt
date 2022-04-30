@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = eastern
+religion = tengri_pagan
+primary_culture = dynamic-ostyaki-culture-num2
+capital = 2444
+1444.11.11= {
+	monarch = {
+		name = "Lysko"
+		dynasty = "Raimskoe-Yanokul"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1370.2.20
+		religion = tengri_pagan
+		culture = dynamic-ostyaki-culture-num2
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Valdava"
+		dynasty = "Ufaan"
+		adm = 5
+		dip = 3
+		mil = 5
+		country_of_origin = BSH
+		birth_date = 1420.7.13
+		death_date = 1480.7.13
+		female = yes
+		religion = tengri_pagan
+		culture = dynamic-ostyaki-culture-num2
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Dokya"
+		monarch_name = "Dokya"
+		dynasty = "Raimskoe-Yanokul"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1390.6.12
+		death_date = 1455.6.12
+		claim = 89
+		religion = tengri_pagan
+		culture = dynamic-ostyaki-culture-num2
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 101
+	add_treasury = 45
+}

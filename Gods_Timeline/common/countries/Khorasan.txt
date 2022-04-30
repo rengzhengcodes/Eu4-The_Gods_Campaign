@@ -1,0 +1,98 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 130 168 224 }
+revolutionary_colors = { 1 0 1 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abolhassan #0" = 0
+	"Amin #0" = 0
+	"Azadeh #1" = -1
+	"Azrîn #1" = -1
+	"Bohar #0" = -1
+	"Buddhadasa #0" = 0
+	"Damika #0" = -1
+	"Faramarz #1" = 10
+	"Faranghis #1" = -1
+	"Fardad #1" = 10
+	"Fezlun #0" = 0
+	"Fila #0" = -1
+	"Govindaraja #0" = 0
+	"Hemavati #0" = -1
+	"Jahangir #0" = 0
+	"Kanchuka #1" = -1
+	"Kitaka #0" = -1
+	"Lorîcan #0" = -1
+	"Mani #1" = 10
+	"Mejbîr #0" = -1
+	"Muhammad #3" = 10
+	"Najela #1" = -1
+	"Negin #1" = -1
+	"Pendar #1" = 10
+	"Poya #2" = 10
+	"Prabhavati #0" = -1
+	"Rajadeva #1" = 10
+	"Sahba #1" = -1
+	"Salman #1" = 10
+	"Salomeh #1" = -1
+	"Sangappai #0" = -1
+	"Shahab #1" = 10
+	"Shahryar #1" = 10
+	"Singhraja #0" = 0
+	"Sundaridevi #0" = -1
+	"Tahir #1" = 10
+	"Thakur #1" = 10
+	"Tishifan #0" = 0
+	"Tourandokht #0" = -1
+	"Trogyelbum #1" = 10
+	"Vassaba #0" = 0
+	"Vîštap #0" = 0
+	"Zerîxan #0" = -1
+	"Zînet #0" = -1
+	"Îsmaîl #0" = 0
+}
+leader_names = {
+	"Ali"
+	"Bali"
+	"Karawi"
+	"Khan"
+	"Mirza"
+	"Nawaz"
+	"Quli"
+	"Tadj"
+	"Wali"
+	"Zaman"
+}
+ship_names = {
+	"Badam"
+	"Bardeskan"
+	"Dasht"
+	"Deyhuk"
+	"Germi"
+	"Jandaq"
+	"Khvor"
+	"Kondor"
+	"Tabas"
+	"Torud"
+}

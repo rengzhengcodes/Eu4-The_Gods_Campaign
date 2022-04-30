@@ -1,0 +1,99 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 248 125 125 }
+revolutionary_colors = { 15 1 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Ako #1" = 10
+	"Anders #1" = 10
+	"Ankad #1" = 10
+	"Beorhtwaru #0" = -1
+	"Blæja #0" = -1
+	"Báethíne #0" = 0
+	"Cuthberht #0" = 0
+	"Cuthræd #0" = 0
+	"Dyre #1" = 10
+	"Eadweald #0" = 0
+	"Esclarmonde #0" = -1
+	"Folke #1" = 10
+	"Helgi #0" = 0
+	"Holger #1" = 10
+	"Ingemar #2" = 10
+	"Kaupo #1" = 10
+	"Ketill #0" = 0
+	"Ketilmundr #0" = 0
+	"Kezhay #1" = 10
+	"Leelo #1" = -1
+	"Maelrys #1" = -1
+	"Ourdilic #1" = -1
+	"Pihla #1" = -1
+	"Refill #0" = 0
+	"Rögnfríðr #0" = -1
+	"Shvarnas #1" = 10
+	"Skjöldr #0" = 0
+	"Styrbjörn #0" = 0
+	"Sulev #1" = 10
+	"Sulian #0" = 0
+	"Svanhildr #0" = -1
+	"Sven #1" = 10
+	"Sämund #1" = 10
+	"Vililemb #1" = 10
+	"Wulf #0" = 0
+	"Ylva #0" = -1
+	"Þuriðr #1" = -1
+}
+leader_names = {
+	"Aminoff"
+	"Armfelt"
+	"Bielke"
+	"Bonde"
+	"Carpelan"
+	"Fleming"
+	"Furuhjelm"
+	"Horn"
+	"Mannerheim"
+	"Paijkull"
+	"Rehbinder"
+	"Schulman"
+	"Soop"
+	"Tott"
+	"Wrede"
+}
+ship_names = {
+	"Arensburg"
+	"Hapsal"
+	"Maria"
+	"Narva"
+	"Pernau"
+	"Reval"
+	"Toompea"
+	"Weissenstein"
+	"Wesenberg"
+	"Ösel"
+}

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = hungarian
+capital = 162
+fixed_capital = 162
+1444.11.11= {
+	monarch = {
+		name = "Gábor"
+		dynasty = "Duružmic"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1390.1.15
+		religion = catholic
+		culture = hungarian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Giedre"
+		dynasty = "Zukunft-Nykøbing"
+		adm = 5
+		dip = 6
+		mil = 5
+		country_of_origin = Z50
+		birth_date = 1371.4.10
+		death_date = 1431.4.10
+		female = yes
+		religion = catholic
+		culture = lithuanian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Soma"
+		monarch_name = "Soma"
+		dynasty = "Duružmic"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1411.9.30
+		death_date = 1476.9.30
+		claim = 89
+		religion = catholic
+		culture = hungarian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 79
+	add_treasury = 70
+}

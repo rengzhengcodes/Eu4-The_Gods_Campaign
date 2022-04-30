@@ -1,0 +1,106 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 23 114 143 }
+revolutionary_colors = { 8 1 8 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	diplomatic_ideas
+	defensive_ideas
+	trade_ideas
+	aristocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Achyutadeva #0" = 0
+	"Alsi #2" = 10
+	"Anangpal #2" = 10
+	"Anangpala #1" = 10
+	"Anjanibai #0" = -1
+	"Dronyer #0" = 0
+	"Fariborz #7" = 10
+	"Govinda #1" = 10
+	"Harsa #0" = 0
+	"Jagannatharaya #2" = 10
+	"Jayasakti #1" = 10
+	"Jayasimha #1" = 10
+	"Karamchand #1" = 10
+	"Lhakee #0" = -1
+	"Mahadevi #0" = -1
+	"Nagapala #0" = 0
+	"Nannuka #1" = 10
+	"Naranath #1" = 10
+	"Narasimha #1" = 10
+	"Obayamma #0" = -1
+	"Ranasimha #1" = 10
+	"Rijhpala #1" = 10
+	"Ruchira #0" = -1
+	"Saman #1" = 10
+	"Unmattavanti #1" = 10
+	"Vakpati #1" = 10
+	"Virupaksha #0" = 0
+}
+leader_names = {
+	"Baghela"
+	"Bais"
+	"Bhaal"
+	"Bundela"
+	"Chandela"
+	"Chattar"
+	"Chauhan"
+	"Datia"
+	"Jadon"
+	"Jasos"
+	"Katoch"
+	"Mihir"
+	"Minhas"
+	"Mori"
+	"Naga"
+	"Naru"
+	"Pakhral"
+	"Pundir"
+	"Saharan"
+	"Singh"
+	"Tomara"
+}
+ship_names = {
+	"Betwa"
+	"Devi"
+	"Durga"
+	"Gandak"
+	"Ganga"
+	"Gayatri"
+	"Ghagra"
+	"Gomti"
+	"Jalsena"
+	"Kala Jahazi"
+	"Ken"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Ramganga"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Satlaj"
+	"Sita"
+	"Yamuna"
+}

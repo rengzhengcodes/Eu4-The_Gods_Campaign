@@ -1,0 +1,41 @@
+government = republic
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_103
+primary_culture = dynamic-cosmopolitan_french-swabian-culture-num1
+capital = 2980
+fixed_capital = 2980
+add_accepted_culture = ligurian
+1444.11.11= {
+	monarch = {
+		name = "Adelinde"
+		dynasty = "Zukunft-Kingston"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1412.2.22
+		female = yes
+		religion = converted_dynamic_faith_103
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Byrhtnoth"
+		dynasty = "Zukunft"
+		adm = 3
+		dip = 5
+		mil = 4
+		country_of_origin = Z6M
+		birth_date = 1367.8.7
+		death_date = 1427.8.7
+		religion = converted_dynamic_faith_103
+		culture = swabian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 77
+	add_treasury = 56
+}

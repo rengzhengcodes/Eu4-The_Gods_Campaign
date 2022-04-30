@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 110 90 230 }
+monarch_names = {
+	"Achalraj #1" = 10
+	"Ai #0" = -1
+	"Arsach #1" = 10
+	"Atimuwer #0" = 0
+	"Gémathar #0" = -1
+	"Jingze #0" = 0
+	"Kualü #0" = 0
+	"Lin #1" = 10
+	"Nadi #0" = -1
+	"Nanai #0" = -1
+	"Nanai-thvar #1" = 10
+	"Narshakhi #0" = 0
+	"Ranisa #1" = -1
+	"Ruolun #1" = -1
+	"Taihua #1" = -1
+	"Tara #0" = -1
+	"Wenzhao #1" = -1
+	"Yanwei #0" = 0
+	"Yuniang #0" = -1
+}

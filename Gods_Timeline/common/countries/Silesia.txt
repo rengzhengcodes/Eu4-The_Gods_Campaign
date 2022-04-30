@@ -1,0 +1,107 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 84 166 93 }
+revolutionary_colors = { 8 1 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adémar #2" = 10
+	"Alexandra #0" = -1
+	"Boromír #2" = 10
+	"Bratislav #2" = 10
+	"Chvalimír #1" = 10
+	"Dušan #2" = 10
+	"Dušana #0" = -1
+	"Eilífr #0" = 0
+	"Henryk #0" = 0
+	"Holger #0" = 0
+	"Ioustinos #0" = 0
+	"Jaromil #1" = 10
+	"Jaromír #1" = 10
+	"Jaroslav #1" = 10
+	"Ladomír #1" = 10
+	"Luboš #1" = 10
+	"Maria #0" = -1
+	"Martha #0" = -1
+	"Malgorzata #0" = -1
+	"Miloslav #1" = 10
+	"Miroslav #1" = 10
+	"Mojmír #1" = 10
+	"Oscytel #0" = 0
+	"Otto #0" = 0
+	"Philipp #0" = 0
+	"Pribina #1" = 10
+	"Prokop #1" = 10
+	"Radomír #4" = 10
+	"Rutger #1" = 10
+	"Siloš #1" = 10
+	"Skirgaila #0" = 0
+	"Slezaslaw #1" = 10
+	"Stephania #0" = -1
+	"Suligost #1" = 10
+	"Svatoboj #1" = 10
+	"Tichomil #1" = 10
+	"Tichomír #1" = 10
+	"Vlastislav #1" = 10
+	"Witosz #2" = 10
+	"Wratyslaw #1" = 10
+	"Zdravoslav #1" = 10
+	"Zemislav #1" = 10
+	"Zobor #1" = 10
+	"Zubrivoj #2" = 10
+}
+leader_names = {
+	"Abeln"
+	"Greve"
+	"Gronau"
+	"Heintzel"
+	"Hergesell"
+	"Hoppe"
+	"Jauernik"
+	"Kahl"
+	"Liegnitz"
+	"Schwarz"
+	"Sterner"
+	"Tilch"
+	"Wiehle"
+}
+ship_names = {
+	"Breslau"
+	"Cosel-Beuthen"
+	"Falkenberg"
+	"Glogau"
+	"Liegnitz-Brieg"
+	"Münsterberg"
+	"Neisse-Ottmachau"
+	"Oels"
+	"Oppeln"
+	"Ratibor"
+	"Sagan"
+	"Schweidnitz-Jauer"
+	"Steinau"
+	"Teschen"
+}

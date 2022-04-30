@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 2
+technology_group = indian
+religion = vajrayana
+primary_culture = panjabi
+capital = 507
+mercantilism = 15
+add_accepted_culture = hindustani_proper
+1444.11.11= {
+	monarch = {
+		name = "Mahadev"
+		dynasty = "Saunakid"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1394.4.26
+		religion = vajrayana
+		culture = panjabi
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Badiyah"
+		dynasty = "Elhamid"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = PUN
+		birth_date = 1427.12.4
+		death_date = 1487.12.4
+		female = yes
+		religion = vajrayana
+		culture = dynamic-sindhi-tajik-culture-num1
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Avantivarma"
+		monarch_name = "Avantivarma II"
+		dynasty = "Saunakid"
+		adm = 2
+		dip = 6
+		mil = 3
+		birth_date = 1433.4.17
+		death_date = 1498.4.17
+		claim = 89
+		religion = vajrayana
+		culture = panjabi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 106
+	add_treasury = 82
+}

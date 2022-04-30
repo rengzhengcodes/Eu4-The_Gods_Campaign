@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_103
+primary_culture = danish
+capital = 3
+add_accepted_culture = geatish
+1444.11.11= {
+	monarch = {
+		name = "Maria"
+		dynasty = "Gautske-Lübeck"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1423.2.17
+		female = yes
+		religion = converted_dynamic_faith_103
+		culture = danish
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Manegold"
+		dynasty = "Ulm-Izurum"
+		adm = 3
+		dip = 3
+		mil = 5
+		country_of_origin = Z3N
+		birth_date = 1417.1.31
+		death_date = 1477.1.31
+		religion = converted_dynamic_faith_103
+		culture = franconian
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sofie"
+		monarch_name = "Sofie"
+		dynasty = "Gautske-Lübeck"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1440.7.20
+		death_date = 1505.7.20
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_103
+		culture = danish
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 79
+	add_treasury = 55
+}

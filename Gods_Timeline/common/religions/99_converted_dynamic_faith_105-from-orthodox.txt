@@ -1,0 +1,46 @@
+christian = {
+	converted_dynamic_faith_105 = {
+		color = { 107 5 5 }
+		icon =  174
+		allowed_conversion = {
+ 
+		manichean
+		mandeaism
+		valentinianism
+		sethianism
+		priscillianism
+		cainitism
+	
+}
+		country = {
+ 
+		technology_cost = -0.1
+	
+
+		global_tax_modifier = -0.1
+		idea_cost = -0.2
+	
+
+		heir_chance = 0.25
+	
+
+		heir_chance = 0.25
+	
+}
+		country_as_secondary = {
+ 
+		technology_cost = -0.05
+	
+
+		idea_cost = -0.1
+	
+}
+		
+		has_patriarchs = yes
+	
+		
+	heretic = { OLD_BELIEVER MOLOKAN DUKHOBOR KHLYST SKOPTSY ICONOCLAST }
+
+	}
+}
+

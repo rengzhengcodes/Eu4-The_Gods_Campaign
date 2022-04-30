@@ -1,0 +1,74 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 252 209 22 }
+revolutionary_colors = { 5 8 13 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Baeivi #0" = 0
+	"Birgitta #0" = -1
+	"Bohuslava #0" = -1
+	"Cenræd #0" = 0
+	"Frederikke #0" = -1
+	"Freja #1" = -1
+	"Ida #0" = -1
+	"Illona #0" = -1
+	"Ingeborg #0" = -1
+	"Ingegerd #1" = -1
+	"Kolman #0" = 0
+	"Krzysztof #0" = 0
+	"Leif #0" = 0
+	"Ostrivoj #0" = 0
+	"Sealggá #1" = -1
+	"Sigrid #0" = -1
+	"Áilu #0" = 0
+}
+leader_names = {
+	"Guoládat"
+	"Gájka"
+	"Kaise"
+	"Magga"
+	"Nuoráne"
+	"Nylogid"
+	"Saiva"
+	"Syktyvkar"
+	"Ubmeje"
+	"Yugra"
+}
+ship_names = {
+	"Akka"
+	"Beaivi"
+	"Bieggolmai"
+	"Haldi"
+	"Laib Olmai"
+	"Lieaibolmmai"
+	"Raedieahkka"
+	"Ruohtta"
+	"Stallo"
+	"Tjaetsieålmaj"
+}

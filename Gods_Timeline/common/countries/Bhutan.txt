@@ -1,0 +1,138 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 93 180 76 }
+revolutionary_colors = { 8 0 6 }
+historical_idea_groups = {
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Adhikara #0" = 0
+	"Adityavarman #0" = 0
+	"Ahalya #0" = -1
+	"Ajmal #0" = 0
+	"Anamika #0" = -1
+	"Antara #0" = -1
+	"Anuttam #1" = 10
+	"Aranab #0" = 0
+	"Arkar #0" = 0
+	"Asima #0" = -1
+	"Balbir #0" = 0
+	"Bumden #1" = -1
+	"Chellava #0" = -1
+	"Chittaprasad #0" = 0
+	"Dakmo #0" = -1
+	"Dehanagadevi #0" = -1
+	"Desi #1" = 10
+	"Devashish #0" = 0
+	"Devrat #0" = 0
+	"Dharmendu #0" = 0
+	"Dhiraja #0" = 0
+	"Drugyel #2" = 10
+	"Duk #0" = -1
+	"Fateh #0" = 0
+	"Galay #5" = 10
+	"Gamakamba #0" = -1
+	"Gopi #0" = 0
+	"Govinda #0" = 0
+	"Hemavati #0" = -1
+	"Jampa #0" = 0
+	"Jangcchub #1" = 10
+	"Jankibai #0" = -1
+	"Jass #0" = -1
+	"Jaya #0" = 0
+	"Jayadeva #0" = 0
+	"Jigme #1" = 10
+	"Kaba #1" = 10
+	"Kanchuka #0" = -1
+	"Kanta #0" = -1
+	"Khesar #1" = 10
+	"Kinga #1" = 10
+	"Kriti #0" = -1
+	"Kumudini #0" = -1
+	"Kundakadevi #0" = -1
+	"Kyile #1" = 10
+	"Lham #0" = -1
+	"Malavyadevi #0" = -1
+	"Manas #0" = 0
+	"Manasa #0" = -1
+	"Mela #0" = -1
+	"Mithilesh #0" = 0
+	"Myine #0" = -1
+	"Namgay #0" = 0
+	"Namgyay #1" = 10
+	"Naresh #0" = 0
+	"Nawang #1" = 10
+	"Nazilla #0" = -1
+	"Neeva #0" = -1
+	"Oisum #0" = 0
+	"Palisha #0" = -1
+	"Parnita #0" = -1
+	"Pelmo #0" = -1
+	"Pema #0" = -1
+	"Phenkem #0" = -1
+	"Ramkrishna #0" = 0
+	"Ravikiran #0" = 0
+	"Renu #0" = -1
+	"Sabitri #0" = -1
+	"Sanjiv #0" = 0
+	"Saras #0" = 0
+	"Sarat #0" = 0
+	"Selden #0" = -1
+	"Shaan #0" = 0
+	"Shaili #0" = -1
+	"Shashwat #0" = 0
+	"Shyamsundar #0" = 0
+	"Siddha #0" = 0
+	"Sithu #0" = 0
+	"Sumant #0" = 0
+	"Sundip #0" = 0
+	"Suranjana #0" = -1
+	"Tejasee #0" = -1
+	"Thandar #0" = -1
+	"Trishanku #0" = 0
+	"Tsewang #1" = -1
+	"Yuddha #0" = 0
+}
+leader_names = {
+	"Chomphel"
+	"Gyaltshen"
+	"Gyamtsho"
+	"Lhopi"
+	"Peljor"
+	"Phuntsho"
+	"Rabgye"
+	"Tshering"
+	"Wangchuk"
+	"Wangpo"
+}
+ship_names = {
+	"Chhu"
+	"Dng Chu"
+	"Manas Chu"
+	"Mangde Chu"
+	"Mo Chu"
+	"Pa Chu"
+	"Pho Chu"
+	"Punaka"
+	"Sangkosh"
+	"Thimbu"
+	"Tongsa Chu"
+	"Towang Chu"
+}

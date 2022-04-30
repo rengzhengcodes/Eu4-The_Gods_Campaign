@@ -1,0 +1,89 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 33 92 143 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Aarif #1" = 10
+	"Ajdir #0" = 0
+	"Akli #1" = 10
+	"Anastasios #1" = 10
+	"Bartholomaios #0" = 0
+	"Basillike #0" = -1
+	"Belisarios #0" = 0
+	"Buðli #0" = 0
+	"Chrysogone #0" = -1
+	"Eirene #0" = -1
+	"Filippus #0" = 0
+	"Ibiza #0" = 0
+	"Iccaam #0" = 0
+	"Iêsousyko #1" = -1
+	"Kel #2" = -1
+	"Kenwa #0" = -1
+	"Khalil #0" = 0
+	"Megistos #0" = 0
+	"Málmfríðr #1" = -1
+	"Paschalis #0" = 0
+	"Phyllis #0" = -1
+	"Pulcheria #1" = -1
+	"Rhodanthe #0" = -1
+	"Sentiko #1" = 10
+	"Shokouh #1" = -1
+	"Sholah #1" = -1
+	"Stephanou #1" = 10
+	"Svanhildr #0" = -1
+	"Theoktiste #0" = -1
+	"Tislit #0" = -1
+	"Valeria #1" = -1
+	"Yasmin #0" = -1
+}
+leader_names = {
+	"Al-Hasan"
+	"Al-Hukban"
+	"Al-Masaira"
+	"Badar"
+	"Ghiyadhat"
+	"Haradjin"
+	"Khiyalat"
+	"Makharim"
+	"Masari"
+	"Mashawiya"
+	"Ridjban"
+	"Sharaf"
+	"Umur"
+	"Wada"
+}
+ship_names = {
+	"Ad-Dahna"
+	"Ad-Dilam"
+	"Al-Armah"
+	"Al-Bayad"
+	"Ar-Riyad"
+	"Jabal Tuwayo"
+	"Nafüd Ad-Dahy"
+	"Nafüd As-Sirrah"
+	"Nafüd Qunayfidahah"
+	"Nafüd Shuqayyiqah"
+	"Shaqra"
+}

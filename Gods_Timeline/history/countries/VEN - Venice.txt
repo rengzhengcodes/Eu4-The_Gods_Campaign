@@ -1,0 +1,43 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_105
+primary_culture = venetian
+capital = 112
+fixed_capital = 112
+1444.11.11= {
+	monarch = {
+		name = "Vseslava"
+		dynasty = "Árpád-Venezia"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 1385.3.9
+		female = yes
+		religion = converted_dynamic_faith_105
+		culture = venetian
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Olena"
+		monarch_name = "Olena"
+		dynasty = "Árpád-Venezia"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1402.12.30
+		death_date = 1467.12.30
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_105
+		culture = venetian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 74
+	add_treasury = 68
+}

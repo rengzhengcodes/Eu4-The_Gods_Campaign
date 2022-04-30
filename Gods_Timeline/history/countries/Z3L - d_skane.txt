@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = dynamic-hungarian-old_prussian-culture-num1
+capital = 26
+add_accepted_culture = danish
+1444.11.11= {
+	monarch = {
+		name = "Kornél"
+		dynasty = "Árpád-Békés"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1406.4.28
+		religion = catholic
+		culture = dynamic-hungarian-old_prussian-culture-num1
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Irina"
+		dynasty = "Árpád-Peremyshl"
+		adm = 4
+		dip = 4
+		mil = 3
+		country_of_origin = Z3L
+		birth_date = 1390.2.18
+		death_date = 1450.2.18
+		female = yes
+		religion = catholic
+		culture = dynamic-cosmopolitan_french-russian_culture-culture-num1
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ekkelis"
+		monarch_name = "Ekkelis"
+		dynasty = "Árpád-Békés"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1424.1.11
+		death_date = 1489.1.11
+		claim = 89
+		religion = catholic
+		culture = dynamic-hungarian-old_prussian-culture-num1
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 80
+	add_treasury = 46
+}

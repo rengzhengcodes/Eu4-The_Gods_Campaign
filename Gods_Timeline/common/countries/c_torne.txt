@@ -1,0 +1,27 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 45 45 135 }
+monarch_names = {
+	"Baeivi #1" = 10
+	"Biellá #0" = -1
+	"Duojá #1" = -1
+	"Duttá #1" = 10
+	"Folke #1" = 10
+	"Gierá #0" = -1
+	"Gáktu #0" = 0
+	"Heilwiva #0" = -1
+	"Henrik #1" = 10
+	"Hjalmar #2" = 10
+	"Jeansa #1" = 10
+	"Járre #1" = 10
+	"Leammá #0" = 0
+	"Mellet #0" = 0
+	"Mohkku #0" = 0
+	"Oaván #2" = 10
+	"Ruigi #1" = 10
+	"Rástos #1" = 10
+	"Sojá #0" = -1
+	"Suonjar #0" = -1
+	"Sárra #2" = 10
+	"Áilu #0" = 0
+}

@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 210 235 87 }
+monarch_names = {
+	"Abdul-Wahab #0" = 0
+	"Adalmode #1" = -1
+	"Adrien #0" = 0
+	"Amsha #0" = -1
+	"Aymar #0" = 0
+	"Bashir #1" = 10
+	"Bohemond #0" = 0
+	"Dorothea #1" = -1
+	"Enguerrand #0" = 0
+	"Gabri'el #0" = 0
+	"Ildey #0" = 0
+	"Mor #0" = 0
+	"Paymaneh #0" = -1
+	"Qamara #0" = -1
+	"R'uza #0" = -1
+	"Rasa #0" = -1
+	"Shola #0" = -1
+	"Yves #0" = 0
+}

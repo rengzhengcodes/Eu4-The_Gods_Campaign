@@ -1,0 +1,121 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 116 107 140 }
+revolutionary_colors = { 0 10 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Ajjar #1" = 10
+	"Akakios #0" = 0
+	"Alexios #0" = 0
+	"Antonia #1" = -1
+	"Asparukh #1" = 10
+	"Batbayan #1" = 10
+	"Bilyana #0" = -1
+	"Boris #1" = 10
+	"Dana #0" = -1
+	"Dragoman #0" = 0
+	"Eugenia #1" = -1
+	"Eustachie #1" = -1
+	"Eustathios #1" = 10
+	"Grgur #0" = 0
+	"Helias #1" = 10
+	"Hypatia #0" = -1
+	"Iakov #2" = 10
+	"Iouliana #1" = -1
+	"Ioustina #1" = -1
+	"Isaakios #1" = 10
+	"Isaias #1" = 10
+	"Kardam #1" = 10
+	"Konstantine #1" = -1
+	"Kormesiy #1" = 10
+	"Kormisosh #1" = 10
+	"Krum #1" = 10
+	"Kubrat #1" = 10
+	"Kyriake #0" = -1
+	"Malamir #1" = 10
+	"Margarita #1" = -1
+	"Marianu #0" = 0
+	"Meletios #0" = 0
+	"Nikarete #1" = -1
+	"Nikolaos #0" = 0
+	"Ognen #0" = 0
+	"Omortag #1" = 10
+	"Orestes #1" = 10
+	"Pagan #1" = 10
+	"Pelagia #0" = -1
+	"Phokas #2" = 10
+	"Polykarpos #0" = 0
+	"Presian #1" = 10
+	"Romylia #2" = -1
+	"Rositsa #1" = -1
+	"Sabin #1" = 10
+	"Sevar #1" = 10
+	"Slavac #1" = 10
+	"Soimir #0" = 0
+	"Svetislav #1" = 10
+	"Telerig #1" = 10
+	"Telets #1" = 10
+	"Tereza #0" = -1
+	"Tervel #1" = 10
+	"Toktu #1" = 10
+	"Umor #1" = 10
+	"Valeria #0" = -1
+	"Vinekh #1" = 10
+	"Vladislav #1" = 10
+	"Zakare #0" = 0
+	"Zenobios #1" = 10
+}
+leader_names = {
+	"Balina"
+	"Djordjic"
+	"Dobrovski"
+	"Frujin"
+	"Karposh"
+	"Konstantin"
+	"Marinov"
+	"Peyachevich"
+	"Radic"
+	"Rali"
+	"Shishman"
+	"Sorkochovich"
+	"Strahil"
+	"Stratimirovich"
+}
+ship_names = {
+	"Alhtpolo"
+	"Kiten"
+	"Kraymorie"
+	"Lozenets"
+	"Promorsko"
+	"Rezovo"
+	"Sarafovo"
+	"Sinemorets"
+	"Sozopol"
+	"Varara"
+}

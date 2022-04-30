@@ -1,0 +1,43 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = east_african
+religion = converted_dynamic_faith_102
+primary_culture = dynamic-nubian-culture-num1
+capital = 423
+fixed_capital = 423
+1444.11.11= {
+	monarch = {
+		name = "Rahimah"
+		dynasty = "Rahanweyn"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1390.7.23
+		female = yes
+		religion = converted_dynamic_faith_102
+		culture = dynamic-nubian-culture-num1
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Nikoletta"
+		monarch_name = "Nikoletta"
+		dynasty = "Lascaris"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 1377.12.25
+		death_date = 1442.12.25
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_105
+		culture = greek
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 50
+	add_treasury = 63
+}

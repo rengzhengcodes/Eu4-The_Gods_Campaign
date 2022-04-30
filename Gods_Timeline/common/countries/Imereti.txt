@@ -1,0 +1,145 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 36 132 247 }
+revolutionary_colors = { 5 8 10 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Alexandra #1" = -1
+	"Anos #1" = 10
+	"Bagrat #1" = 10
+	"Baia #1" = -1
+	"Barnuk #1" = 10
+	"Bedisa #1" = -1
+	"Davit #1" = 10
+	"Demetre #2" = 10
+	"Duda #1" = -1
+	"Ghozar #1" = 10
+	"Halil #1" = 10
+	"Helene #1" = -1
+	"Helias #1" = 10
+	"Istvine #1" = 10
+	"Jagoda #1" = -1
+	"Kale #1" = -1
+	"Konstanti #2" = 10
+	"Konstantin #1" = 10
+	"Kulin #0" = 0
+	"Kyriakos #1" = 10
+	"Leon #1" = 10
+	"Levan #2" = 10
+	"Luarsab #1" = 10
+	"Mathiko #2" = -1
+	"Nerse #1" = 10
+	"Ostoja #1" = 10
+	"Paymaneh #1" = -1
+	"Phiniktios #1" = 10
+	"Savaricu #1" = 10
+	"Stana #0" = -1
+	"Stephania #1" = -1
+	"Teodor #1" = 10
+	"Teodos #2" = 10
+	"Thomais #1" = -1
+	"Zvonimir #1" = 10
+}
+leader_names = {
+	"Abashidze"
+	"Agiashvili"
+	"Anchabadze"
+	"Apakidze"
+	"Chichua"
+	"Chijavadze"
+	"Chikovani"
+	"Chkheidze"
+	"Dadeshkeliani"
+	"Dadiani"
+	"Gelovani"
+	"Gurieli"
+	"Iashvili"
+	"Lortkipanidze"
+	"Machavariani"
+	"Machutadze"
+	"Mikeladze"
+	"Mkheidze"
+	"Nakashidze"
+	"Nikoladze"
+	"Nizharadze"
+	"Shervashidze"
+	"Tsereteli"
+	"Tsulukidze"
+}
+ship_names = {
+	"Abkhazeti"
+	"Amirani"
+	"Anakopia"
+	"Apsaros"
+	"Argo"
+	"Armazi"
+	"Artaani"
+	"Ateni Sioni"
+	"Avtandil"
+	"Batomi"
+	"Bichvinta"
+	"Colchis"
+	"Davit Aghmashenebeli"
+	"Demetre Tavdadebuli"
+	"Didgori"
+	"Dioscurias"
+	"Dmanisi"
+	"Gelati"
+	"Giorgi V Brtskinvale"
+	"Jvari"
+	"Jvari Vazisa"
+	"Khornabuji"
+	"Kutaisi"
+	"Lasharisjvari"
+	"Mtkvari"
+	"Ninotsminda"
+	"Okros Satsmisi"
+	"Parnavaz"
+	"Petre Iberi"
+	"Phasis"
+	"Pityus"
+	"Racha"
+	"Rioni"
+	"Ruisi"
+	"Seti"
+	"Shota Rustaveli"
+	"Skhalta"
+	"Svaneti"
+	"Svetitskhoveli"
+	"Tamar"
+	"Tetri Giorgi"
+	"Tsminda Giorgi"
+	"Tsotne Dadiani"
+	"Uplistsikhe"
+	"Ushba"
+	"Vakhtang Gorgasali"
+	"Vardzia"
+	"Venakhi"
+}

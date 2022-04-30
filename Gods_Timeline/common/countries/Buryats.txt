@@ -1,0 +1,135 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 70 130 180 }
+revolutionary_colors = { 13 0 8 }
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Ambaghai #1" = 10
+	"Ariq #0" = 0
+	"Arjaana #0" = -1
+	"Baishinkhor Dogshin #0" = 0
+	"Belgunutei #0" = 0
+	"Borbak-kis #0" = -1
+	"Bukha #0" = 0
+	"Checheyigen #0" = -1
+	"Choduraa #0" = -1
+	"Dan-jayaa #0" = -1
+	"Donduk #0" = 0
+	"Erdeni #0" = -1
+	"Esin #0" = -1
+	"Gurbesu #0" = -1
+	"Harghasun #0" = 0
+	"Hoelun #1" = -1
+	"Ipekel #0" = -1
+	"Jochi #1" = 10
+	"Jurchedei #0" = 0
+	"Kara-kat #1" = -1
+	"Khadagh #1" = 10
+	"Khaidu #0" = 0
+	"Khutulan #0" = -1
+	"Kokachin #0" = -1
+	"Kozel #2" = 10
+	"Kuchkach-ool #1" = 10
+	"Kök-kis #0" = -1
+	"Mongke #1" = 10
+	"Mongush #0" = 0
+	"Narin #1" = 10
+	"Orlan #1" = 10
+	"Salchak #0" = 0
+	"Saylykmaa #0" = -1
+	"Sirin #0" = -1
+	"Soyan #0" = 0
+	"Soyolma #0" = -1
+	"Tekine #0" = -1
+	"Todogen #0" = 0
+	"Torolchi #0" = 0
+	"Töregene #0" = -1
+	"Yasar #0" = -1
+	"Yesugun #0" = -1
+	"Öchküsaar #0" = -1
+}
+leader_names = {
+	"Abaga"
+	"Abaganar"
+	"Ast"
+	"Borjigin"
+	"Chagaan"
+	"Chakhar"
+	"Darqan"
+	"Hohhot"
+	"Jurim"
+	"Karakorum"
+	"Khalkha"
+	"Kharachin"
+	"Khorchin"
+	"Noyan"
+	"Onriut"
+	"Ordos"
+	"Tümed"
+	"Ulanqab"
+	"Uriankhai"
+	"Wang"
+	"Xilingol"
+	"Yingchang"
+	"Yungshiyebu"
+}
+ship_names = {
+	"Adai"
+	"Batu"
+	"Bo'orchu"
+	"Borokhula"
+	"Böke"
+	"Chagaan"
+	"Chilaun"
+	"Dharmapala"
+	"Dörben Külü'üd"
+	"Dörben Noyas"
+	"Elbeg"
+	"Ghengis Khan"
+	"Hohhot"
+	"Hülegü"
+	"Jebe"
+	"Jelme"
+	"Jinggim"
+	"Jöchi"
+	"Kamala"
+	"Karakorum"
+	"Khar Khiruge"
+	"Khubilai"
+	"Mugali"
+	"Möngke"
+	"Qubilai"
+	"Shikhikhutug"
+	"Sorqan Shira"
+	"Subutai"
+	"Tolui"
+	"Yelü Chucai"
+	"Yingchang"
+	"Ögödei"
+	"Örüg Temür"
+}

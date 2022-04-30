@@ -1,0 +1,43 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = muslim
+religion = converted_dynamic_faith_102
+primary_culture = dynamic-al_misr_arabic-greek-culture-num1
+capital = 364
+add_accepted_culture = al_suryah_arabic
+1444.11.11= {
+	monarch = {
+		name = "Agne"
+		dynasty = "Struma-Farama"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1372.5.17
+		female = yes
+		religion = converted_dynamic_faith_102
+		culture = dynamic-al_misr_arabic-greek-culture-num1
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Eugenia"
+		monarch_name = "Eugenia"
+		dynasty = "Azim-Harar"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1397.4.9
+		death_date = 1462.4.9
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_102
+		culture = dynamic-al_misr_arabic-greek-culture-num1
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 88
+	add_treasury = 0
+}

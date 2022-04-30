@@ -1,0 +1,122 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 88 45 148 }
+revolutionary_colors = { 0 8 1 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	administrative_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adolf #1" = 10
+	"Adémar #0" = 0
+	"Amelung #1" = 10
+	"Augustin #3" = 10
+	"Baldewin #0" = 0
+	"Bona #1" = -1
+	"Bóthildr #1" = -1
+	"Christine #0" = -1
+	"Cobbo #1" = 10
+	"Dietwin #0" = 0
+	"Eanhere #0" = 0
+	"Eberhard #0" = 0
+	"Echive #1" = -1
+	"Eormenred #0" = 0
+	"Eriprando #1" = 10
+	"Evrard #0" = 0
+	"Fakoli #0" = 0
+	"Gelduin #0" = 0
+	"Gospatric #0" = 0
+	"Helene #0" = -1
+	"Herjólfr #0" = 0
+	"Hrothwina #1" = -1
+	"Hákon #0" = 0
+	"Ingjaldr #0" = 0
+	"Karlotte #1" = -1
+	"Kunigunde #0" = -1
+	"Léonard #1" = 10
+	"Meinhard #0" = 0
+	"Norbert #1" = 10
+	"Otakar #1" = 10
+	"Susanna #1" = -1
+	"Thietmar #1" = 10
+	"Tóki #0" = 0
+	"Ælfswith #0" = -1
+	"Æthelberht #0" = 0
+}
+leader_names = {
+	"Ackermann"
+	"Alberti"
+	"Albrecht"
+	"Alvensleben"
+	"Amman"
+	"Annecke"
+	"Anthe"
+	"Bauer"
+	"Bause"
+	"Ehrenberg"
+	"Erxleben"
+	"Feuerstack"
+	"Flachsbart"
+	"Genthe"
+	"Gerstung"
+	"Held"
+	"Herzburg"
+	"Hoppe"
+	"Isaack"
+	"Janeck"
+	"Jantke"
+	"Kersten"
+	"Kleinau"
+	"März"
+	"Nehmiz"
+	"Rumpf"
+	"Scharfe"
+	"Schauseil"
+	"Schieck"
+	"von Zerbst"
+}
+ship_names = {
+	"Albrecht Ballenstedt"
+	"Albrecht der Bär"
+	"Aschersleben"
+	"Bernburg"
+	"Bernhard Wittenberg"
+	"Bischof Siegfried"
+	"Brocken"
+	"Coswig"
+	"Dessau"
+	"Dietrich Werben"
+	"Hartz"
+	"Heinrich I"
+	"Hermann Orlamünde"
+	"Köthen"
+	"Plötzkau"
+	"Ramberg"
+	"Rosslau"
+	"Zerbst"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

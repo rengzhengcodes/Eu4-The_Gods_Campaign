@@ -1,0 +1,126 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 136 157 23 }
+revolutionary_colors = { 15 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	quality_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Adelaide #1" = -1
+	"Agnieszka #0" = -1
+	"Amaury #0" = 0
+	"André #0" = 0
+	"Andela #0" = -1
+	"Bajan #1" = 10
+	"Beidras #1" = 10
+	"Bohumil #1" = 10
+	"Boleslava #0" = -1
+	"Boson #1" = 10
+	"Bourgogne #0" = -1
+	"Bourguigne #0" = -1
+	"Darya #1" = -1
+	"Dobrava #0" = -1
+	"Epiphania #0" = -1
+	"Euphemia #0" = -1
+	"Gilles #0" = 0
+	"Gremislava #0" = -1
+	"Gábor #0" = 0
+	"Iakov #2" = 10
+	"Igor #1" = 10
+	"Ioana #0" = -1
+	"Irmingard #0" = -1
+	"Jeanne #0" = -1
+	"Jákob #0" = 0
+	"Karatas #0" = 0
+	"Koz'ma #1" = 10
+	"Lev #0" = 0
+	"Margarethe #0" = -1
+	"Marguerite #0" = -1
+	"Mascarose #0" = -1
+	"Matfei #0" = 0
+	"Matild #0" = -1
+	"Mstislav #1" = 10
+	"Oleg #0" = 0
+	"Patryk #0" = 0
+	"Praxida #0" = -1
+	"Prisnec #1" = 10
+	"Putiata #0" = 0
+	"Raimbaut #0" = 0
+	"Renaud #0" = 0
+	"Robin #2" = 10
+	"Rurik #0" = 0
+	"Ruslan #0" = 0
+	"Sigismond #0" = 0
+	"Stanislaw #0" = 0
+	"Sybille #0" = -1
+	"Tarloh #0" = -1
+	"Volodar #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yaroslav #1" = 10
+	"Yaroslava #0" = -1
+	"Yazi #0" = 0
+	"Yelisey #1" = 10
+	"Ziedas #0" = -1
+}
+leader_names = {
+	"Callimachi"
+	"Campineanu"
+	"Cantacuzino"
+	"Cantemir"
+	"Caragea"
+	"Craiovescu"
+	"Duca"
+	"Ghica"
+	"Ilias"
+	"Lupu"
+	"Mavrocordat"
+	"Moruzi"
+	"Movila"
+	"Musatin"
+	"Norocea"
+	"Racovita"
+	"Ruset"
+	"Sturdza"
+	"Sutu"
+	"Voda"
+}
+ship_names = {
+	"Athleta Christi"
+	"Baia"
+	"Bogdan I"
+	"Iuga"
+	"Moldova"
+	"Râul Prut"
+	"Stefan cel Mare"
+	"Suceava"
+	"Târgul Moldovei"
+	"Vaslui"
+}
+army_names = {
+	"Oastea de $PROVINCE$"
+}

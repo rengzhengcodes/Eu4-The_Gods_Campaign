@@ -1,0 +1,184 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 163 5 77 }
+revolutionary_colors = { 5 8 9 }
+historical_idea_groups = {
+	defensive_ideas
+	quantity_ideas
+	trade_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	economic_ideas
+	offensive_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Adhikara #0" = 0
+	"Adityavarman #0" = 0
+	"Ahalya #0" = -1
+	"Ajmal #0" = 0
+	"Anamika #0" = -1
+	"Antara #0" = -1
+	"Anuttam #1" = 10
+	"Aranab #0" = 0
+	"Arathi #1" = 10
+	"Arkar #0" = 0
+	"Asima #0" = -1
+	"Aum #1" = 10
+	"Balavarman #3" = 10
+	"Balbir #0" = 0
+	"Bhaskaravarman #1" = 10
+	"Bhutivarman #2" = 10
+	"Bumden #0" = -1
+	"Chandramukhavarman #1" = 10
+	"Chellava #0" = -1
+	"Chittaprasad #0" = 0
+	"Dakmo #0" = -1
+	"Dehanagadevi #0" = -1
+	"Devashish #0" = 0
+	"Devrat #0" = 0
+	"Dharmendu #0" = 0
+	"Dhiraja #0" = 0
+	"Drega #2" = 10
+	"Duk #0" = -1
+	"Fateh #0" = 0
+	"Galay #1" = 10
+	"Gamakamba #0" = -1
+	"Ganapativarman #1" = 10
+	"Gandharavati #1" = -1
+	"Gopi #0" = 0
+	"Govinda #0" = 0
+	"Harjjaravarman #1" = 10
+	"Harshadeva #1" = 10
+	"Harshapala #1" = 10
+	"Hemavati #0" = -1
+	"Jampa #0" = 0
+	"Jangcchub #2" = 10
+	"Jankibai #0" = -1
+	"Jass #0" = -1
+	"Jaya #0" = 0
+	"Jayadeva #0" = 0
+	"Jayamala #1" = 10
+	"Kalyanavarman #1" = 10
+	"Kanchuka #0" = -1
+	"Kanta #0" = -1
+	"Khandu #1" = 10
+	"Konchhog #1" = 10
+	"Kriti #0" = -1
+	"Kumarastambha #1" = 10
+	"Kumudini #0" = -1
+	"Kundakadevi #0" = -1
+	"Lham #0" = -1
+	"Mahendravarman #1" = 10
+	"Malavyadevi #0" = -1
+	"Manas #0" = 0
+	"Manasa #0" = -1
+	"Mela #0" = -1
+	"Mithilesh #0" = 0
+	"Myine #0" = -1
+	"Namgay #0" = 0
+	"Nar Singh #1" = 10
+	"Narayanavarman #1" = 10
+	"Naresh #0" = 0
+	"Nazilla #0" = -1
+	"Neeva #0" = -1
+	"Oisum #0" = 0
+	"Palakastambha #1" = 10
+	"Palisha #0" = -1
+	"Parnita #0" = -1
+	"Pelmo #0" = -1
+	"Pema #0" = -1
+	"Phenkem #0" = -1
+	"Pushyavarman #1" = 10
+	"Ramkrishna #0" = 0
+	"Ratnadhwajpala #1" = 10
+	"Ravikiran #0" = 0
+	"Renu #0" = -1
+	"Sabitri #0" = -1
+	"Salambha #1" = 10
+	"Salasthamba #1" = 10
+	"Samudravarman #1" = 10
+	"Sanjiv #0" = 0
+	"Saras #0" = 0
+	"Sarat #0" = 0
+	"Selden #0" = -1
+	"Shaan #0" = 0
+	"Shaili #0" = -1
+	"Shashwat #0" = 0
+	"Shyamsundar #0" = 0
+	"Siddha #0" = 0
+	"Singye #3" = 10
+	"Sithu #0" = 0
+	"Sthitavarman #1" = 10
+	"Sukhdev #1" = 10
+	"Sumant #0" = 0
+	"Sundip #0" = 0
+	"Supratisthitavarman #1" = 10
+	"Suranjana #0" = -1
+	"Susthitavarman #1" = 10
+	"Tejasee #0" = -1
+	"Thandar #0" = -1
+	"Trishanku #0" = 0
+	"Vajradeva #1" = 10
+	"Vanamalavarmadeva #1" = 10
+	"Vijayasthamba #1" = 10
+	"Wangdak #3" = 10
+	"Yuddha #0" = 0
+}
+leader_names = {
+	"Baruah"
+	"Borphukan"
+	"Chandra"
+	"Das"
+	"Deka"
+	"Kalita"
+	"Mahanta"
+	"Narayan"
+	"Prithu"
+	"Roy"
+}
+ship_names = {
+	"Brahmaputra"
+	"Chingri Mach"
+	"Darrang"
+	"Devi"
+	"Dibang"
+	"Durga Ma"
+	"Ganga"
+	"Hilsa Mach"
+	"Ilish Mach"
+	"Kali Ma"
+	"Kali Meghana"
+	"Kali Nauk"
+	"Kamrup"
+	"Lakimpur"
+	"Lal Nauk"
+	"Loki Devi"
+	"Luhit"
+	"Machli"
+	"Manasa Devi"
+	"Manjuli"
+	"Meghna"
+	"Nil Nauk"
+	"Nil Sagor"
+	"Parvati Devi"
+	"Rui Mach"
+	"Sagorer Bahini"
+	"Saraswoti"
+	"Shakti"
+	"Shaktir Nauk"
+	"Shasti Ma"
+	"Sibsagar"
+	"Trishool"
+	"Uma Devi"
+}

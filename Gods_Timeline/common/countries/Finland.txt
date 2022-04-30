@@ -1,0 +1,147 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 182 134 100 }
+revolutionary_colors = { 0 13 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Auðr #1" = -1
+	"Bodil #0" = -1
+	"Bótólfr #0" = 0
+	"Ceingar #0" = -1
+	"Cicely #0" = -1
+	"Fuandrec #0" = -1
+	"Geirr #1" = 10
+	"Glóð #0" = -1
+	"Gospatric #0" = 0
+	"Grjotgard #1" = 10
+	"Gyda #0" = -1
+	"Haapa #1" = 10
+	"Hernam #0" = 0
+	"Huld #1" = -1
+	"Ihala #2" = 10
+	"Iliana #1" = -1
+	"Ingibjörg #1" = -1
+	"Ingjerðr #0" = -1
+	"Isabel #0" = -1
+	"Karl #1" = 10
+	"Madryn #1" = 10
+	"Medguistl #0" = -1
+	"Oswine #1" = 10
+	"Oucydd #0" = 0
+	"Pyry #1" = 10
+	"Rodolfo #0" = 0
+	"Rögnfríðr #0" = -1
+	"Satajalka #1" = 10
+	"Steinn #1" = 10
+	"Susi #1" = 10
+	"Svanhildr #0" = -1
+	"Sverker #0" = 0
+	"Swithræd #1" = 10
+	"Taisto #1" = 10
+	"Terho #1" = 10
+	"Vigdís #1" = -1
+	"Yngvar #0" = 0
+	"Álfrhildr #0" = -1
+	"Ælfwynn #0" = -1
+	"Æthelswith #0" = -1
+	"Örvar #1" = 10
+	"Þorbrandr #0" = 0
+	"Þórdís #0" = -1
+}
+leader_names = {
+	"Adlercreutz"
+	"Ahlqvist"
+	"Berg"
+	"Björn"
+	"Blom"
+	"Cronstedt"
+	"Dufva"
+	"Ehrensvärd"
+	"Glad"
+	"Haataja"
+	"Helander"
+	"Helin"
+	"Hiltunen"
+	"Horn"
+	"Ilkka"
+	"Isotalo"
+	"Järnberg"
+	"Järvelä"
+	"Kesäläinen"
+	"Klingspor"
+	"Kortelainen"
+	"Krouvari"
+	"Kyrö"
+	"Liljencrantz"
+	"Länkinen"
+	"Pentti"
+	"Pietilä"
+	"Rehnskiöld"
+	"Renner"
+	"Rokka"
+	"Rutanen"
+	"Sakari"
+	"Sjögren"
+	"Stoor"
+	"Stålhandske"
+	"Tapani"
+	"Termonen"
+	"Turunen"
+	"Wilander"
+	"von Essen"
+}
+ship_names = {
+	"Agricola"
+	"Aura"
+	"Birger Jarl"
+	"Borgå"
+	"Hakkapeliitta"
+	"Helsingfors"
+	"Ilmarinen"
+	"Karelen"
+	"Kullervo"
+	"Kymi"
+	"Lapland"
+	"Lemminkäinen"
+	"Nyland"
+	"Oulu"
+	"Per Brahe"
+	"Sampo"
+	"Savolax"
+	"St. Henrik"
+	"Tavastehus"
+	"Tavastland"
+	"Vanda"
+	"Vasa"
+	"Viborg"
+	"Vuoksi"
+	"Väinämöinen"
+	"Åbo"
+	"Österbotten"
+}

@@ -1,0 +1,82 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 135 144 180 }
+revolutionary_colors = { 1 0 1 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	quantity_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Aikaterine #1" = -1
+	"Antonia #1" = -1
+	"Bartholomaios #1" = 10
+	"Chael #1" = 10
+	"Chrissa #0" = -1
+	"Christina #1" = -1
+	"Christophoros #1" = 10
+	"Cristina #1" = -1
+	"Eitou #1" = -1
+	"Epiphania #1" = -1
+	"Eudosia #0" = -1
+	"Fatima #1" = -1
+	"Gabrielophorou #0" = 0
+	"Giulia #1" = -1
+	"Hemene #1" = -1
+	"Iêsousyko #1" = -1
+	"Iôannou #1" = 10
+	"Kurake #0" = -1
+	"Kuriakos #1" = 10
+	"Kyriakos #1" = 10
+	"Makarios #1" = 10
+	"Maththias #0" = 0
+	"Penatti #1" = -1
+	"Pesanthia #0" = -1
+	"Qawurd #1" = 10
+	"Rahimah #1" = -1
+	"Zuhayra #1" = -1
+	"Ñeššadena #0" = -1
+}
+leader_names = {
+	"Abboud"
+	"Fung"
+	"Garang"
+	"Kayra"
+	"Keira"
+	"Kelueljang"
+	"Lugor"
+	"Nuer"
+	"Shol"
+	"Taha"
+}
+ship_names = {
+	"Amenirdis"
+	"Amon"
+	"Apedemak"
+	"Arensnuphis"
+	"Bes"
+	"Dedwen"
+	"Khnum"
+	"Mandulis"
+	"Mut"
+	"Taweret"
+	"Tefnut"
+}

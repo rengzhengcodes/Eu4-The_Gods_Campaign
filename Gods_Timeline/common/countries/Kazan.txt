@@ -1,0 +1,90 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 97 102 135 }
+revolutionary_colors = { 10 0 5 }
+historical_idea_groups = {
+	administrative_ideas
+	trade_ideas
+	quantity_ideas
+	expansion_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	religious_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Ali #1" = 10
+	"Arvo #0" = 0
+	"Batoya #0" = 0
+	"Baturay #1" = 10
+	"Birger #1" = 10
+	"Biyar #1" = 10
+	"Dobrinya #1" = 10
+	"Doro #1" = 10
+	"Khoddey #0" = 0
+	"Kudym-Osh #0" = 0
+	"Mosheg #1" = 10
+	"Ovtay #0" = 0
+	"Paksyay #1" = 10
+	"Paksyut #1" = 10
+	"Parush #1" = 10
+	"Pokshayka #1" = 10
+	"Putyayka #0" = -1
+	"Rateg #1" = 10
+	"Ruzava #0" = -1
+	"Sektev #1" = 10
+	"Sevindik #0" = -1
+	"Shyrpuzh #0" = 0
+	"Siyamka #1" = -1
+	"Sochava #1" = -1
+	"Tatka #0" = -1
+	"Tetyava #1" = -1
+	"Tyueykezhut #1" = 10
+	"Varaka #1" = 10
+	"Virdyan #0" = 0
+	"Yugörka #0" = -1
+}
+leader_names = {
+	"Cälil"
+	"Göbäydullina"
+	"Isxaqi"
+	"Märcani"
+	"Nasiri"
+	"Nigmät"
+	"Nurgäli"
+	"Näcmetdin"
+	"Qamay"
+	"Qol-Gäli"
+	"Qursawi"
+	"Tuqay"
+	"Yusupow"
+}
+ship_names = {
+	"Alat"
+	"Arca"
+	"Cöri"
+	"Ghiasetdin"
+	"Gärec"
+	"Nugay"
+	"Qazan"
+	"Qazansu"
+	"Qazgan"
+	"Qazi"
+	"Säyet"
+	"Säyex"
+	"Söyembikä"
+	"Tas Ayaq"
+}

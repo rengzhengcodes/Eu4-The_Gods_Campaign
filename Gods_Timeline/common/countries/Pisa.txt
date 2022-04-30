@@ -1,0 +1,143 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 177 150 109 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	italian_condotta
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aldobrandino #1" = 10
+	"Aleksii #2" = 10
+	"Alisia #1" = -1
+	"Alpert #1" = 10
+	"Andrea #1" = 10
+	"Anscario #1" = 10
+	"Ardizzone #1" = 10
+	"Aurelio #1" = 10
+	"Dobroslava #0" = -1
+	"Germanos #1" = 10
+	"Gilberto #1" = 10
+	"Halvor #0" = 0
+	"Hans #0" = 0
+	"Iakobos #1" = 10
+	"Jacopo #1" = 10
+	"Komitas #1" = 10
+	"Manuel #1" = 10
+	"Marwa #1" = -1
+	"Patrizia #1" = -1
+	"Raineri #1" = 10
+	"Rositsa #1" = -1
+	"Sabas #0" = 0
+	"Staurakios #0" = 0
+	"Tachipert #1" = 10
+	"Teobaldo #1" = 10
+	"Valeria #0" = -1
+	"Walpert #1" = 10
+	"Yasar #0" = -1
+}
+leader_names = {
+	"Amelia"
+	"Appiani"
+	"Barone"
+	"Bartoli"
+	"Barzagli"
+	"Basile"
+	"Birindelli"
+	"Brunforte"
+	"Buonarroti"
+	"Butteri"
+	"Capitani"
+	"Chiellini"
+	"Conti"
+	"Dini"
+	"Fibonacci"
+	"Galilei"
+	"Gambacorta"
+	"Ganza"
+	"Gentileschi"
+	"Gori"
+	"Greco"
+	"Grosso"
+	"Guidi"
+	"Letta"
+	"Lombardi"
+	"Mancini"
+	"Marchetti"
+	"Marianelli"
+	"Notaro"
+	"Oddo"
+	"Pacinotti"
+	"Pesce"
+	"Pini"
+	"Pisano"
+	"Pontecorvo"
+	"Pozzi"
+	"Ruffo"
+	"Sonnino"
+	"Tabucchi"
+	"Tosetti"
+	"Tumicelli"
+	"Ulivelli"
+	"Ventura"
+	"Zaccardo"
+	"d'Appiani d'Aragona"
+	"de Rossi"
+	"del Piero"
+	"dell Agnello"
+	"della Gherardesca"
+	"della Ubaldini"
+}
+ship_names = {
+	"Andreotto Saraceno"
+	"Bartolo da Sassoferrato"
+	"Bernardo dei Paganelli"
+	"Daiberto Pisano"
+	"Fazio della Gherardesca"
+	"Fiumi Arno"
+	"Francesco da Buti"
+	"Giovanni di Simone"
+	"Giuseppe Setaioli"
+	"Leonardo Fibonacci"
+	"Monti Pisani"
+	"Morosini da Venezia"
+	"Rustichello"
+	"S.Piero a Grado"
+	"S.Rossore"
+	"San Frediano"
+	"San Giovanni Battista"
+	"San Michele"
+	"San Nicola"
+	"San Paolo a Ripa d'Arno"
+	"San Sisto"
+	"Sant'Agata"
+	"Sant'Antonio"
+	"Santa Maria Assunta"
+	"Santa Maria della Spina"
+	"Ugolino Caccini"
+	"Ugolino della Gherardesca"
+}
+army_names = {
+	"Armata di $PROVINCE$"
+}

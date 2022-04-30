@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_103
+primary_culture = dynamic-cosmopolitan_french-swabian-culture-num1
+capital = 4727
+fixed_capital = 4727
+add_accepted_culture = dynamic-italian-culture-num1
+1444.11.11= {
+	monarch = {
+		name = "Skjaldvör"
+		dynasty = "Zukunft-Rieneck"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1414.3.2
+		female = yes
+		religion = converted_dynamic_faith_103
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+	}
+	add_ruler_personality = well_connected_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Boethios"
+		dynasty = "Abdilla-Philadelphia"
+		adm = 3
+		dip = 2
+		mil = 4
+		country_of_origin = SZO
+		birth_date = 1422.3.15
+		death_date = 1482.3.15
+		religion = converted_dynamic_faith_103
+		culture = greek
+	}
+	add_queen_personality = well_connected_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Cathèrine"
+		monarch_name = "Cathèrine"
+		dynasty = "Zukunft-Rieneck"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1439.6.9
+		death_date = 1504.6.9
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_103
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 74
+	add_treasury = 0
+}
