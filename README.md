@@ -2,6 +2,8 @@
 This is the mod file for the first megacampaign of the "Not Normal Server," beginning in 867 and ending in 1444, taking place in 2022. 
 ## Players
 The players in this campaign played as Britannia, Byzantium, Carpathia, and Germany (formerly the HRE).
+## Tools Used
+1. [Ck3 to Eu4 Converter](https://github.com/ParadoxGameConverters/CK3toEU4) -- Version 0.10 Jain
 ## Rules (For this Play)
 1. A timeskip occurred between ca. 1170 and 1400. The AI was made to play all player nations. This was both for speed of play reasons, and to destabilize internally unstable empires.
 2. To prevent dev from snowballing, [an exponential decay equation](https://www.desmos.com/calculator/cpwayxhsbq) based off top player performance was used to determine how much dev we could bring with us to Ck3. 
