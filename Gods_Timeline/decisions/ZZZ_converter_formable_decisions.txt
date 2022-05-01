@@ -163,6 +163,8 @@ country_decisions = {
 						religion = iconoclast
 						religion = bogomilist
 						religion = monothelite
+						religion = converted_dynamic_faith_102
+						religion = converted_dynamic_faith_105
 						religion = paulician
 						religion = hellenic_pagan
 						religion = hellenic_pagan_reformed
@@ -178,6 +180,8 @@ country_decisions = {
 						religion = bogomilist
 						religion = monothelite
 						religion = paulician
+						religion = converted_dynamic_faith_102
+						religion = converted_dynamic_faith_105
 						religion = hellenic_pagan
 						religion = hellenic_pagan_reformed
 					}
