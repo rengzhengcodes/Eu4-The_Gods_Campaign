@@ -158,6 +158,8 @@ country_decisions = {
 					NOT = { primary_culture = pontic_greek }
 					OR = {
 						religion = orthodox
+						religion = eschatological
+						religion = promethean
 						religion = iconoclast
 						religion = bogomilist
 						religion = monothelite
