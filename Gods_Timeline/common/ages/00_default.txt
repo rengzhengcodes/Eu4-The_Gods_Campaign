@@ -196,7 +196,7 @@ age_of_discovery = {
 
 			allow = {
 				OR = {
-					tag = POR
+					culture_group = iberian
 					AND = {
 						has_idea_group = exploration_ideas
 						num_of_total_ports = 15
