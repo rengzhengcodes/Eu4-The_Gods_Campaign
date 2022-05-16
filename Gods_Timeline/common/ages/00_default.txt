@@ -654,13 +654,13 @@ age_of_absolutism = {
 		}
 
 
-		ab_france_fire_damage = {
+		ab_Byzantine_fire_damage = {
 			allow = {
 				OR = {
-					tag = FRA
+					tag = BYZ
 					AND = {
 						government_rank = 2
-						culture_group = french
+						culture_group = Byzantine
 					}
 				}
 			}
