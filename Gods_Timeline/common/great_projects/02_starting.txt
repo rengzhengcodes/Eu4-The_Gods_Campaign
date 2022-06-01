@@ -1,0 +1,145 @@
+byzantine_victory_column = {
+	# starting province
+	start = 1765
+
+	# date built
+	date = 1450.01.01
+
+	# time to build
+	time = {
+		months = 0
+	}
+
+	# how much to build one
+	build_cost = 1000
+
+	# can we move it?
+	can_be_moved = no
+
+	# time to move the project one unit of distance, in days
+	move_days_per_unit_distance = 10
+
+	# tier that the project starts at when first placed in the game
+	starting_tier = 0
+
+	type = monument
+
+	build_trigger = {
+	}
+
+	on_built = {
+	}
+
+	on_destroyed = {
+	}
+
+	can_use_modifiers_trigger = {
+	}
+
+	can_upgrade_trigger = {
+	}
+
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		# time to upgrade to this level (0 for tier 0)
+		upgrade_time = {
+			months = 0
+		}
+
+		# cost to upgrade to this level (0 for tier 0)
+		cost_to_upgrade = {
+			factor = 0
+		}
+
+		province_modifiers = {
+		}
+
+		area_modifier = {
+		}
+
+		country_modifiers = {
+		}
+
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+
+		cost_to_upgrade = {
+			factor = 1000
+		}
+
+		province_modifiers = {
+		}
+
+		area_modifier = {
+		}
+
+		country_modifiers = {
+			army_tradition_from_battle = 0.5
+			prestige_from_land = 0.25
+		}
+
+		on_upgraded = {
+			owner = {
+				add_army_professionalism = 0.02
+			}
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+
+		cost_to_upgrade = {
+			factor = 2500
+		}
+
+		province_modifiers = {
+		}
+
+		area_modifier = {
+		}
+
+		country_modifiers = {
+			army_tradition_from_battle = 0.5
+			prestige_from_land = 0.5
+			army_tradition_decay = -0.005
+		}
+
+		on_upgraded = {
+			owner = {
+				add_army_professionalism = 0.02
+			}
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+
+		cost_to_upgrade = {
+			factor = 5000
+		}
+
+		province_modifiers = {
+		}
+
+		area_modifier = {
+		}
+
+		country_modifiers = {
+			army_tradition_from_battle = 1
+			prestige_from_land = 1
+			army_tradition_decay = -0.01
+		}
+	}
+}
